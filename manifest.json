@@ -22,6 +22,15 @@
       "url": "https://cdn.modrinth.com/data/fM515JnW/versions/54u7eI2t/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar"
     },
     {
+      "id": "mctarot",
+      "name": "Arcana of Fate",
+      "version": "0.1.0",
+      "file": "mctarot-0.1.0.jar",
+      "sha256": "dd43ac6d7f063d5be19b8f544326af3fac5bbe9ec1c2151287693a97e105bd81",
+      "size": 669257,
+      "url": "mods/mctarot-0.1.0.jar"
+    },
+    {
       "id": "arcanewand",
       "name": "Arcane Wand: Cataclysm",
       "version": "1.0.0",
@@ -92,6 +101,15 @@
       "sha256": "34fbc40055e0eb5534188209c8ffcd9a949e9b381c97c53d521398941253f865",
       "size": 475700,
       "url": "mods/containment-0.1.0.jar"
+    },
+    {
+      "id": "cosmeticarmour",
+      "name": "Cosmetic Armour",
+      "version": "1.0",
+      "file": "cosmeticarmour-1.0.jar",
+      "sha256": "21964ed81b64406694fe6a6667d3ccee72742d00dffbf22c994a8a877ca432a5",
+      "size": 4243834,
+      "url": "mods/cosmeticarmour-1.0.jar"
     },
     {
       "id": "creativecore",
