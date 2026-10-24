@@ -1,0 +1,2 @@
+# modupdater ships raw bytes, never let git convert line endings
+* -text

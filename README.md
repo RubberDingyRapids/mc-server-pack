@@ -39,5 +39,7 @@ Options worth knowing: `--file path:overwrite` forces a config onto clients even
 ## notes
 
 - The repo has to be public for `raw.githubusercontent.com` to serve it without a token.
+- `.gitattributes` turns line-ending conversion off for the whole repo. Don't remove it: git for windows
+  defaults to `core.autocrlf=true`, which would store a CRLF config as LF and break its sha256 on clients.
 - raw.githubusercontent.com caches for up to 5 minutes, so a push can take that long to show up in game.
 - The updater only reads the manifest url baked into the mod (`config/modupdater.json` on a client overrides it).

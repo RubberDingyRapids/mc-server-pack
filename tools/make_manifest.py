@@ -117,6 +117,17 @@ def main():
     manifest_path = os.path.join(repo, "manifest.json")
     os.makedirs(repo_mods, exist_ok=True)
 
+    # git must ship these bytes untouched: with core.autocrlf (git for windows default) a CRLF config file gets
+    # stored as LF and github serves something that fails the sha256 in the manifest.
+    ga = os.path.join(repo, ".gitattributes")
+    if not os.path.isfile(ga):
+        with open(ga, "w", newline="
+", encoding="utf-8") as f:
+            f.write("# modupdater ships raw bytes, never let git convert line endings
+* -text
+")
+        print("+ .gitattributes (line-ending conversion off)")
+
     prev = {}
     if os.path.isfile(manifest_path):
         with open(manifest_path, encoding="utf-8") as f:
