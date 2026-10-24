@@ -33,6 +33,7 @@ import os
 import re
 import shutil
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 import zipfile
@@ -66,6 +67,36 @@ def read_fmj(jar):
     if "id" not in o:
         return None
     return o["id"], str(o.get("version", "")), str(o.get("name") or o["id"])
+
+
+MODRINTH_UA = "mc-server-pack manifest generator (github.com/RubberDingyRapids/mc-server-pack)"
+
+
+def modrinth_url(jar, size):
+    """exact sha1 lookup on modrinth: a cdn url for a jar curseforge doesn't track, or None."""
+    h = hashlib.sha1()
+    with open(jar, "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 20), b""):
+            h.update(chunk)
+    sha1 = h.hexdigest()
+    req = urllib.request.Request(
+        "https://api.modrinth.com/v2/version_file/" + sha1 + "?algorithm=sha1",
+        headers={"User-Agent": MODRINTH_UA},
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            v = json.load(r)
+    except urllib.error.HTTPError as e:
+        if e.code != 404:
+            print(f"  !! modrinth lookup for {os.path.basename(jar)} failed: HTTP {e.code}")
+        return None
+    except Exception as e:
+        print(f"  !! modrinth lookup for {os.path.basename(jar)} failed: {e}")
+        return None
+    for f in v.get("files", []):
+        if f.get("hashes", {}).get("sha1") == sha1 and f.get("size") == size and f.get("url", "").startswith("https://"):
+            return f["url"]
+    return None
 
 
 def cf_urls(instance):
@@ -104,6 +135,7 @@ def main():
     ap.add_argument("--extra-jar", action="append", default=[])
     ap.add_argument("--file", action="append", default=[], help="relative path[:overwrite]")
     ap.add_argument("--no-cdn", action="store_true")
+    ap.add_argument("--no-modrinth", action="store_true", help="never use modrinth cdn urls, host untracked jars here")
     ap.add_argument("--verify", action="store_true")
     a = ap.parse_args()
 
@@ -140,6 +172,7 @@ def main():
     ) + [os.path.abspath(j) for j in a.extra_jar]
 
     mods, hosted, seen_ids = [], set(), {}
+    modrinth_count = 0
     for jar in jars:
         name = os.path.basename(jar)
         info = read_fmj(jar)
@@ -165,6 +198,11 @@ def main():
                         url = None
                 if url:
                     entry["url"] = url
+        if "url" not in entry and not a.no_modrinth:
+            murl = modrinth_url(jar, size)
+            if murl:
+                entry["url"] = murl
+                modrinth_count += 1
         if "url" not in entry:
             dest = os.path.join(repo_mods, name)
             if not os.path.isfile(dest) or sha256(dest) != entry["sha256"]:
@@ -216,7 +254,7 @@ def main():
 
     added = [m for m in mods if m["id"] not in prev_mods]
     updated = [m for m in mods if m["id"] in prev_mods and prev_mods[m["id"]]["sha256"] != m["sha256"]]
-    print(f"manifest {manifest['version']}: {len(mods)} mods ({len(hosted)} hosted here, {len(mods) - len(hosted)} on curseforge cdn), "
+    print(f"manifest {manifest['version']}: {len(mods)} mods ({len(hosted)} hosted here, {modrinth_count} on modrinth cdn, {len(mods) - len(hosted) - modrinth_count} on curseforge cdn), "
           f"{len(files)} files, {len(remove)} in remove list")
     for m in added:
         print(f"  + {m['name']} {m['version']}")

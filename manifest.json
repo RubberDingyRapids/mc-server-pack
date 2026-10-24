@@ -13,6 +13,15 @@
       "url": "https://edge.forgecdn.net/files/8874/895/adastra-1.21.1-1.16.26-fabric.jar"
     },
     {
+      "id": "ambientsounds",
+      "name": "AmbientSounds",
+      "version": "6.3.11",
+      "file": "AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
+      "sha256": "8ddd5faafa0a66edb2f52205eaaa1a21332719c5b98ce6851a756f6b6856fba8",
+      "size": 84824008,
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/54u7eI2t/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar"
+    },
+    {
       "id": "arcanewand",
       "name": "Arcane Wand: Cataclysm",
       "version": "1.0.0",
@@ -85,6 +94,15 @@
       "url": "mods/containment-0.1.0.jar"
     },
     {
+      "id": "creativecore",
+      "name": "CreativeCore",
+      "version": "2.13.48",
+      "file": "CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+      "sha256": "c5d9767c1db11f90e2661f11d54aabc80dd93a45fb9f85f9cc6a3e951ebe6de1",
+      "size": 1257391,
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v7fZmKvM/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar"
+    },
+    {
       "id": "distanthorizons",
       "name": "Distant Horizons",
       "version": "3.3.3",
@@ -98,8 +116,8 @@
       "name": "Dragon Rider",
       "version": "0.1.0",
       "file": "dragonrider-0.1.0.jar",
-      "sha256": "c1295b7b19ceecb5620186bee43f62d2bca2dd1c908750f451a886b22cd218f9",
-      "size": 892522,
+      "sha256": "b2a705ea29f31964ff15cf9d23ff883e84afa36e2567e8bf6ea76cc8f7a44bf9",
+      "size": 1106415,
       "url": "mods/dragonrider-0.1.0.jar"
     },
     {
@@ -236,6 +254,15 @@
       "sha256": "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230",
       "size": 7127377,
       "url": "https://edge.forgecdn.net/files/6330/32/handcrafted-fabric-1.21.1-4.0.3.jar"
+    },
+    {
+      "id": "hear_the_wind",
+      "name": "Hear the Wind",
+      "version": "0.2.0+1.21.1-fabric",
+      "file": "hear_the_wind-0.2.0+1.21.1-fabric.jar",
+      "sha256": "5e79537e29503311688cb4820512f630cde1ffd5115e6cf466d29959e4647c72",
+      "size": 965521,
+      "url": "mods/hear_the_wind-0.2.0%2B1.21.1-fabric.jar"
     },
     {
       "id": "immersive_aircraft",
@@ -544,6 +571,15 @@
       "url": "https://edge.forgecdn.net/files/6131/327/placeholder-api-2.4.2%2b1.21.jar"
     },
     {
+      "id": "presencefootsteps",
+      "name": "Presence Footsteps",
+      "version": "1.10.2+1.21",
+      "file": "PresenceFootsteps-1.10.2+1.21.jar",
+      "sha256": "d648875b2ce624cade82f4d16adf7ae27b301228d43be0134413d44b3551433e",
+      "size": 5672720,
+      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/O1zeCf5e/PresenceFootsteps-1.10.2%2B1.21.jar"
+    },
+    {
       "id": "punchy",
       "name": "Punchy",
       "version": "2.8c",
@@ -622,7 +658,7 @@
       "file": "sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
       "sha256": "2c099bfd5dc02ace6e73ffd9259940b0597cd4da7216a53a2c60c6732900d6aa",
       "size": 988478,
-      "url": "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
+      "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/nHhuPdda/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
     },
     {
       "id": "sophisticatedcore",
@@ -631,7 +667,16 @@
       "file": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
       "sha256": "3c71a04d5b03cdf9d9fe50e71849fdf11291dd1fab149621e35688ef6e516054",
       "size": 2996065,
-      "url": "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+      "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+    },
+    {
+      "id": "sound_physics_remastered",
+      "name": "Sound Physics Remastered",
+      "version": "1.21.1-1.5.2",
+      "file": "sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
+      "sha256": "ace731943db3a02c375e401d18bab3756be4582015066643db9b4a9dead87fbb",
+      "size": 205305,
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/BYhL3BDk/sound-physics-remastered-fabric-1.21.1-1.5.2.jar"
     },
     {
       "id": "suitup",
@@ -649,7 +694,7 @@
       "file": "terrablender-fabric-1.21.1-4.1.0.8.jar",
       "sha256": "f87e94a7fa1227711c3f8aea9ffac7a14e0c7be212fe50ddee95d2c6ba723cac",
       "size": 337990,
-      "url": "mods/terrablender-fabric-1.21.1-4.1.0.8.jar"
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
     },
     {
       "id": "butcher",
