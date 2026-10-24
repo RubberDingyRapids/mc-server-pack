@@ -121,11 +121,8 @@ def main():
     # stored as LF and github serves something that fails the sha256 in the manifest.
     ga = os.path.join(repo, ".gitattributes")
     if not os.path.isfile(ga):
-        with open(ga, "w", newline="
-", encoding="utf-8") as f:
-            f.write("# modupdater ships raw bytes, never let git convert line endings
-* -text
-")
+        with open(ga, "w", newline="\n", encoding="utf-8") as f:
+            f.write("# modupdater ships raw bytes, never let git convert line endings\n* -text\n")
         print("+ .gitattributes (line-ending conversion off)")
 
     prev = {}

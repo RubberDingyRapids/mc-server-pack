@@ -474,11 +474,11 @@
     {
       "id": "modupdater",
       "name": "Mod Updater",
-      "version": "1.0.0",
-      "file": "modupdater-1.0.0.jar",
-      "sha256": "e6d3982e1b14e4f6f2af49e040ca86072345c077c339a4633aaa122b83581883",
-      "size": 70072,
-      "url": "mods/modupdater-1.0.0.jar"
+      "version": "1.0.1",
+      "file": "modupdater-1.0.1.jar",
+      "sha256": "23c5b08d76c085b62322d63ab785f3f10e7268e65cf5e5b528eaf8009fb2356e",
+      "size": 70117,
+      "url": "mods/modupdater-1.0.1.jar"
     },
     {
       "id": "refurbished_furniture",
