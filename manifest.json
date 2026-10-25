@@ -28,8 +28,8 @@
       "name": "Arcana of Fate",
       "version": "0.1.0",
       "file": "mctarot-0.1.0.jar",
-      "sha256": "dd43ac6d7f063d5be19b8f544326af3fac5bbe9ec1c2151287693a97e105bd81",
-      "size": 669257,
+      "sha256": "1cfecc5ad2f6d2dfb0376596aaa8c14e9738ea3b966385bffbc7ecf84179deb5",
+      "size": 745971,
       "url": "mods/mctarot-0.1.0.jar",
       "env": "*"
     },
@@ -116,11 +116,11 @@
     {
       "id": "cosmeticarmour",
       "name": "Cosmetic Armour",
-      "version": "1.0",
-      "file": "cosmeticarmour-1.0.jar",
-      "sha256": "21964ed81b64406694fe6a6667d3ccee72742d00dffbf22c994a8a877ca432a5",
-      "size": 4243834,
-      "url": "mods/cosmeticarmour-1.0.jar",
+      "version": "1.01",
+      "file": "cosmeticarmour-1.01.jar",
+      "sha256": "bd6ad0254f3784a9e4bd58f8777be4813d24935d12fad30bd02bb615751ebb93",
+      "size": 4243205,
+      "url": "mods/cosmeticarmour-1.01.jar",
       "env": "*"
     },
     {
@@ -146,11 +146,11 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "0.1.0",
-      "file": "dragonrider-0.1.0.jar",
-      "sha256": "b2a705ea29f31964ff15cf9d23ff883e84afa36e2567e8bf6ea76cc8f7a44bf9",
-      "size": 1106415,
-      "url": "mods/dragonrider-0.1.0.jar",
+      "version": "1.0.0",
+      "file": "dragonrider-1.0.0.jar",
+      "sha256": "33948132dc54fb571c2fae19bd8401c267b8c046f90311901afcbe51fb4e104b",
+      "size": 1300843,
+      "url": "mods/dragonrider-1.0.0.jar",
       "env": "*"
     },
     {
@@ -388,8 +388,8 @@
       "name": "Legendary Weapons",
       "version": "1.0.0",
       "file": "rpgclasses-1.0.0.jar",
-      "sha256": "7471884ebb6e2570ace7b487e52f03333b9e65be49d38678209971390ae73621",
-      "size": 6347808,
+      "sha256": "47b7bbee9e6609ebea71b8c3e6b60b0aad1d2efb6238b090454a7a073fcf6e83",
+      "size": 6351008,
       "url": "mods/rpgclasses-1.0.0.jar",
       "env": "*"
     },
@@ -798,8 +798,8 @@
       "name": "The Butcher",
       "version": "1.0.3",
       "file": "the-butcher-1.0.3.jar",
-      "sha256": "e72ac08f18034d7a3f4880a1ec84e32b21107d3f817f84e2e6e046b8d5e51851",
-      "size": 4154628,
+      "sha256": "c2463dcecae7b6ba8fd8817900f5de6086efcee071c0f608069b82df0c6b5792",
+      "size": 4154656,
       "url": "mods/the-butcher-1.0.3.jar",
       "env": "*"
     },
@@ -818,8 +818,8 @@
       "name": "Vinny",
       "version": "1.0.0",
       "file": "vinny-1.0.0.jar",
-      "sha256": "4ec54226bbd7331181df20342c645cff784e381aa36dacd9f740f2ad0d91d2a8",
-      "size": 219420,
+      "sha256": "3d9547f29361c663f6d1ca1390d2837d4a3e6027895802e94c90964cee0aa574",
+      "size": 220035,
       "url": "mods/vinny-1.0.0.jar",
       "env": "*"
     },
