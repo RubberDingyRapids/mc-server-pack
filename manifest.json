@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-10-24",
+  "version": "2026-10-25",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -10,7 +10,8 @@
       "file": "adastra-1.21.1-1.16.26-fabric.jar",
       "sha256": "3ff6b11ca2fc915c2e6dd244ae0a04b904c4faefa525107585b7dd6b9d18637b",
       "size": 7320392,
-      "url": "https://edge.forgecdn.net/files/8874/895/adastra-1.21.1-1.16.26-fabric.jar"
+      "url": "https://edge.forgecdn.net/files/8874/895/adastra-1.21.1-1.16.26-fabric.jar",
+      "env": "*"
     },
     {
       "id": "ambientsounds",
@@ -19,7 +20,8 @@
       "file": "AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
       "sha256": "8ddd5faafa0a66edb2f52205eaaa1a21332719c5b98ce6851a756f6b6856fba8",
       "size": 84824008,
-      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/54u7eI2t/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/fM515JnW/versions/54u7eI2t/AmbientSounds_FABRIC_v6.3.11_mc1.21.1.jar",
+      "env": "client"
     },
     {
       "id": "mctarot",
@@ -28,7 +30,8 @@
       "file": "mctarot-0.1.0.jar",
       "sha256": "dd43ac6d7f063d5be19b8f544326af3fac5bbe9ec1c2151287693a97e105bd81",
       "size": 669257,
-      "url": "mods/mctarot-0.1.0.jar"
+      "url": "mods/mctarot-0.1.0.jar",
+      "env": "*"
     },
     {
       "id": "arcanewand",
@@ -37,7 +40,8 @@
       "file": "arcanewand-1.0.0.jar",
       "sha256": "235ed67eb2750ff43f40c54305bc70f6da7a36d97dd052dc45a1ce463047c70a",
       "size": 1415421,
-      "url": "mods/arcanewand-1.0.0.jar"
+      "url": "mods/arcanewand-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "architectury",
@@ -46,7 +50,8 @@
       "file": "architectury-13.0.11-fabric.jar",
       "sha256": "ab17d5c7d8d8c93cc713437ed426f0ff0d6f802a48fff0c579a9bd3aaa833efd",
       "size": 600921,
-      "url": "https://edge.forgecdn.net/files/8492/725/architectury-13.0.11-fabric.jar"
+      "url": "https://edge.forgecdn.net/files/8492/725/architectury-13.0.11-fabric.jar",
+      "env": "*"
     },
     {
       "id": "athena",
@@ -55,7 +60,8 @@
       "file": "athena-fabric-1.21.1-4.0.6.jar",
       "sha256": "e17aad84c690ac4e46300a4180b3ae4077ffa4f526dbc82d117afbbff4ee83e4",
       "size": 88425,
-      "url": "https://edge.forgecdn.net/files/8061/949/athena-fabric-1.21.1-4.0.6.jar"
+      "url": "https://edge.forgecdn.net/files/8061/949/athena-fabric-1.21.1-4.0.6.jar",
+      "env": "*"
     },
     {
       "id": "brewinandchewin",
@@ -64,7 +70,8 @@
       "file": "BrewinAndChewin-fabric-4.5.0+1.21.1.jar",
       "sha256": "ce3fa071acfcb8150fbc06c353d1c163abb6dbf33dae77c45ae18857b6695685",
       "size": 1548542,
-      "url": "https://edge.forgecdn.net/files/8309/584/BrewinAndChewin-fabric-4.5.0%2b1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/8309/584/BrewinAndChewin-fabric-4.5.0%2b1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "cloth-config",
@@ -73,7 +80,8 @@
       "file": "cloth-config-15.0.140-fabric.jar",
       "sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
       "size": 1157166,
-      "url": "https://edge.forgecdn.net/files/5729/125/cloth-config-15.0.140-fabric.jar"
+      "url": "https://edge.forgecdn.net/files/5729/125/cloth-config-15.0.140-fabric.jar",
+      "env": "*"
     },
     {
       "id": "comforts",
@@ -82,7 +90,8 @@
       "file": "comforts-fabric-9.0.5+1.21.1.jar",
       "sha256": "73ff17028967a2e30731ea79aee2e18dd8e2d59a5dcd075facd6491cae1b2231",
       "size": 914494,
-      "url": "https://edge.forgecdn.net/files/7515/856/comforts-fabric-9.0.5%2b1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/7515/856/comforts-fabric-9.0.5%2b1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "common_storage_lib",
@@ -91,7 +100,8 @@
       "file": "common-storage-lib-fabric-1.21.1-0.0.10.jar",
       "sha256": "4906d36ff3c62df3e94255d7dae6472ac7441768e9b19e57a3d053941abf94d8",
       "size": 318809,
-      "url": "https://edge.forgecdn.net/files/8421/543/common-storage-lib-fabric-1.21.1-0.0.10.jar"
+      "url": "https://edge.forgecdn.net/files/8421/543/common-storage-lib-fabric-1.21.1-0.0.10.jar",
+      "env": "*"
     },
     {
       "id": "containment",
@@ -100,7 +110,8 @@
       "file": "containment-0.1.0.jar",
       "sha256": "34fbc40055e0eb5534188209c8ffcd9a949e9b381c97c53d521398941253f865",
       "size": 475700,
-      "url": "mods/containment-0.1.0.jar"
+      "url": "mods/containment-0.1.0.jar",
+      "env": "*"
     },
     {
       "id": "cosmeticarmour",
@@ -109,7 +120,8 @@
       "file": "cosmeticarmour-1.0.jar",
       "sha256": "21964ed81b64406694fe6a6667d3ccee72742d00dffbf22c994a8a877ca432a5",
       "size": 4243834,
-      "url": "mods/cosmeticarmour-1.0.jar"
+      "url": "mods/cosmeticarmour-1.0.jar",
+      "env": "*"
     },
     {
       "id": "creativecore",
@@ -118,7 +130,8 @@
       "file": "CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
       "sha256": "c5d9767c1db11f90e2661f11d54aabc80dd93a45fb9f85f9cc6a3e951ebe6de1",
       "size": 1257391,
-      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v7fZmKvM/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar"
+      "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/v7fZmKvM/CreativeCore_FABRIC_v2.13.48_mc1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "distanthorizons",
@@ -127,7 +140,8 @@
       "file": "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
       "sha256": "864e70def5b0d54d619b940b66bb2784e91d3f3fc253064fdc1b3fc5786cbfab",
       "size": 28289212,
-      "url": "https://edge.forgecdn.net/files/9004/764/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+      "url": "https://edge.forgecdn.net/files/9004/764/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+      "env": "*"
     },
     {
       "id": "dragonrider",
@@ -136,7 +150,8 @@
       "file": "dragonrider-0.1.0.jar",
       "sha256": "b2a705ea29f31964ff15cf9d23ff883e84afa36e2567e8bf6ea76cc8f7a44bf9",
       "size": 1106415,
-      "url": "mods/dragonrider-0.1.0.jar"
+      "url": "mods/dragonrider-0.1.0.jar",
+      "env": "*"
     },
     {
       "id": "essential-container",
@@ -145,7 +160,8 @@
       "file": "Essential_1-5-0-1_fabric_1-21-1.jar",
       "sha256": "d16ec2026c053ff94a57ab2367d46b7cfd2a09f1b088a2e2b57ca1838b12d27b",
       "size": 52732419,
-      "url": "https://edge.forgecdn.net/files/8905/490/Essential_1-5-0-1_fabric_1-21-1.jar"
+      "url": "https://edge.forgecdn.net/files/8905/490/Essential_1-5-0-1_fabric_1-21-1.jar",
+      "env": "client"
     },
     {
       "id": "fabric-api",
@@ -154,7 +170,8 @@
       "file": "fabric-api-0.116.17+1.21.1.jar",
       "sha256": "79ac44b40780acbd884b34c50be1e39af682847e5f5cb3b1fddeeaa768dce800",
       "size": 2452735,
-      "url": "https://edge.forgecdn.net/files/8786/256/fabric-api-0.116.17%2b1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/8786/256/fabric-api-0.116.17%2b1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "fabric-language-kotlin",
@@ -163,7 +180,8 @@
       "file": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
       "sha256": "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9",
       "size": 8142878,
-      "url": "https://edge.forgecdn.net/files/9106/173/fabric-language-kotlin-1.14.2%2bkotlin.2.4.21.jar"
+      "url": "https://edge.forgecdn.net/files/9106/173/fabric-language-kotlin-1.14.2%2bkotlin.2.4.21.jar",
+      "env": "*"
     },
     {
       "id": "fairylights",
@@ -172,7 +190,8 @@
       "file": "fairylights-fabric-1.21.1-1.2.2.jar",
       "sha256": "d2faa9f8dd46b60646cc73485c299bd0ea4ac3d9a52ac81d193bb2dd81288fbb",
       "size": 775164,
-      "url": "https://edge.forgecdn.net/files/8177/581/fairylights-fabric-1.21.1-1.2.2.jar"
+      "url": "https://edge.forgecdn.net/files/8177/581/fairylights-fabric-1.21.1-1.2.2.jar",
+      "env": "*"
     },
     {
       "id": "fallingleaves",
@@ -181,7 +200,8 @@
       "file": "fallingleaves-1.17.1+1.21.1.jar",
       "sha256": "67e2071d6c25e2638573e6ee91a146b77e38d77edddbb26f45006ab878ebca77",
       "size": 170056,
-      "url": "https://edge.forgecdn.net/files/6835/273/fallingleaves-1.17.1%2b1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/6835/273/fallingleaves-1.17.1%2b1.21.1.jar",
+      "env": "client"
     },
     {
       "id": "farmersdelight",
@@ -190,7 +210,8 @@
       "file": "FarmersDelight-1.21.1-3.3.6+refabricated.jar",
       "sha256": "c719a1e92f1e16f953265069afa9b5d52f2119b434e1f6e0ad4d7a1e449941dc",
       "size": 3243316,
-      "url": "https://edge.forgecdn.net/files/8779/534/FarmersDelight-1.21.1-3.3.6%2brefabricated.jar"
+      "url": "https://edge.forgecdn.net/files/8779/534/FarmersDelight-1.21.1-3.3.6%2brefabricated.jar",
+      "env": "*"
     },
     {
       "id": "fdgrassseeds",
@@ -199,7 +220,8 @@
       "file": "fd-grass-seeds-1.0.0.jar",
       "sha256": "7b41b262b57b53fd9ee749c2eadf79b01389671790070271af5491ddc7fbe7ac",
       "size": 3680,
-      "url": "mods/fd-grass-seeds-1.0.0.jar"
+      "url": "mods/fd-grass-seeds-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "forgeconfigapiport",
@@ -208,7 +230,8 @@
       "file": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "sha256": "2e3a8f0e3bda85a7d722720e7ce879cbd9d028d9395c6fc224d329b3c982d9b1",
       "size": 633065,
-      "url": "https://edge.forgecdn.net/files/7213/608/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7213/608/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "env": "*"
     },
     {
       "id": "framework",
@@ -217,7 +240,8 @@
       "file": "framework-fabric-1.21.1-0.13.11.jar",
       "sha256": "5d15360a4fffa8699562c700b5b0e97f0fd0b63006f0c1dbe2fec2b60022117d",
       "size": 1647903,
-      "url": "https://edge.forgecdn.net/files/7530/359/framework-fabric-1.21.1-0.13.11.jar"
+      "url": "https://edge.forgecdn.net/files/7530/359/framework-fabric-1.21.1-0.13.11.jar",
+      "env": "*"
     },
     {
       "id": "ftbchunks",
@@ -226,7 +250,8 @@
       "file": "ftb-chunks-fabric-2101.1.22.jar",
       "sha256": "6b783610069b64f7b28aa0675a707b3cf171364b6647e0c7b406cf6ca7674215",
       "size": 647289,
-      "url": "https://edge.forgecdn.net/files/8791/114/ftb-chunks-fabric-2101.1.22.jar"
+      "url": "https://edge.forgecdn.net/files/8791/114/ftb-chunks-fabric-2101.1.22.jar",
+      "env": "*"
     },
     {
       "id": "ftblibrary",
@@ -235,7 +260,8 @@
       "file": "ftb-library-fabric-2101.1.37.jar",
       "sha256": "399e62acd6c343dab0780ac34aa0e86b4acaa6861eb5d65e826adb03ce9ec6c1",
       "size": 1435726,
-      "url": "https://edge.forgecdn.net/files/9008/90/ftb-library-fabric-2101.1.37.jar"
+      "url": "https://edge.forgecdn.net/files/9008/90/ftb-library-fabric-2101.1.37.jar",
+      "env": "*"
     },
     {
       "id": "ftbteams",
@@ -244,7 +270,8 @@
       "file": "ftb-teams-fabric-2101.1.11.jar",
       "sha256": "39e34b438e0232a614a8cf1269fcff2705b85fde8b930a03d558bc66a03c7cf6",
       "size": 303801,
-      "url": "https://edge.forgecdn.net/files/8724/781/ftb-teams-fabric-2101.1.11.jar"
+      "url": "https://edge.forgecdn.net/files/8724/781/ftb-teams-fabric-2101.1.11.jar",
+      "env": "*"
     },
     {
       "id": "geckolib",
@@ -253,7 +280,8 @@
       "file": "geckolib-fabric-1.21.1-4.9.3.jar",
       "sha256": "70186c70660e8de6c58f5b28625f71ae9e80eb0ad81b5d47b62fd5809bef2ee0",
       "size": 664463,
-      "url": "https://edge.forgecdn.net/files/8893/481/geckolib-fabric-1.21.1-4.9.3.jar"
+      "url": "https://edge.forgecdn.net/files/8893/481/geckolib-fabric-1.21.1-4.9.3.jar",
+      "env": "*"
     },
     {
       "id": "gbe",
@@ -262,7 +290,8 @@
       "file": "gbe-1.0.0.jar",
       "sha256": "e4a2040621349d5704709f8d6fb2be363f78712cefd019778c8f218eef2f9b85",
       "size": 100067,
-      "url": "mods/gbe-1.0.0.jar"
+      "url": "mods/gbe-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "handcrafted",
@@ -271,7 +300,8 @@
       "file": "handcrafted-fabric-1.21.1-4.0.3.jar",
       "sha256": "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230",
       "size": 7127377,
-      "url": "https://edge.forgecdn.net/files/6330/32/handcrafted-fabric-1.21.1-4.0.3.jar"
+      "url": "https://edge.forgecdn.net/files/6330/32/handcrafted-fabric-1.21.1-4.0.3.jar",
+      "env": "*"
     },
     {
       "id": "hear_the_wind",
@@ -280,7 +310,8 @@
       "file": "hear_the_wind-0.2.0+1.21.1-fabric.jar",
       "sha256": "5e79537e29503311688cb4820512f630cde1ffd5115e6cf466d29959e4647c72",
       "size": 965521,
-      "url": "mods/hear_the_wind-0.2.0%2B1.21.1-fabric.jar"
+      "url": "mods/hear_the_wind-0.2.0%2B1.21.1-fabric.jar",
+      "env": "client"
     },
     {
       "id": "immersive_aircraft",
@@ -289,7 +320,8 @@
       "file": "immersive_aircraft-fabric-1.6.0+1.21.1.jar",
       "sha256": "71cf0f5e521157ad3c7dbc9365677c227193ce3cb0447e443fda579fffc07ed4",
       "size": 2524389,
-      "url": "https://edge.forgecdn.net/files/9096/212/immersive_aircraft-fabric-1.6.0%2b1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/9096/212/immersive_aircraft-fabric-1.6.0%2b1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "immersive_portals",
@@ -298,7 +330,8 @@
       "file": "immersive-portals-6.0.6-mc1.21.1-fabric.jar",
       "sha256": "07c95e7422c311b53c082a598dd533169d72fb26ee8385e6982cc7078c9f7979",
       "size": 3121749,
-      "url": "https://edge.forgecdn.net/files/5946/966/immersive-portals-6.0.6-mc1.21.1-fabric.jar"
+      "url": "https://edge.forgecdn.net/files/5946/966/immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+      "env": "*"
     },
     {
       "id": "inventoryprofilesnext",
@@ -307,7 +340,8 @@
       "file": "InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
       "sha256": "b69ac6f98e99042d6edd755242bf76d35eea4342559d2b1d88160e556c629177",
       "size": 1331935,
-      "url": "https://edge.forgecdn.net/files/7818/183/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar"
+      "url": "https://edge.forgecdn.net/files/7818/183/InventoryProfilesNext-fabric-1.21.1-2.2.6.jar",
+      "env": "client"
     },
     {
       "id": "iris",
@@ -316,7 +350,8 @@
       "file": "iris-fabric-1.8.0+mc1.21.1.jar",
       "sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
       "size": 2675365,
-      "url": "https://edge.forgecdn.net/files/5910/87/iris-fabric-1.8.0%2bmc1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/5910/87/iris-fabric-1.8.0%2bmc1.21.1.jar",
+      "env": "client"
     },
     {
       "id": "ironchest",
@@ -325,7 +360,8 @@
       "file": "IronChests-2.0.4.jar",
       "sha256": "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54",
       "size": 582972,
-      "url": "https://edge.forgecdn.net/files/5782/222/IronChests-2.0.4.jar"
+      "url": "https://edge.forgecdn.net/files/5782/222/IronChests-2.0.4.jar",
+      "env": "*"
     },
     {
       "id": "jamlib",
@@ -334,7 +370,8 @@
       "file": "jamlib-fabric-1.3.6+1.21.1.jar",
       "sha256": "84c3a6813d6fdb0446092a477a0bfde0238ab9a49efc1ab110ae4871cc3e20da",
       "size": 187766,
-      "url": "https://edge.forgecdn.net/files/7766/751/jamlib-fabric-1.3.6%2b1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/7766/751/jamlib-fabric-1.3.6%2b1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "jei",
@@ -343,7 +380,8 @@
       "file": "jei-1.21.1-fabric-19.57.0.451.jar",
       "sha256": "6fee27e381d5bb22003cf3eb85b131ee892de0f7dc43ca57e6f8fda81a4903e0",
       "size": 2293144,
-      "url": "https://edge.forgecdn.net/files/9068/135/jei-1.21.1-fabric-19.57.0.451.jar"
+      "url": "https://edge.forgecdn.net/files/9068/135/jei-1.21.1-fabric-19.57.0.451.jar",
+      "env": "*"
     },
     {
       "id": "rpgclasses",
@@ -352,7 +390,8 @@
       "file": "rpgclasses-1.0.0.jar",
       "sha256": "7471884ebb6e2570ace7b487e52f03333b9e65be49d38678209971390ae73621",
       "size": 6347808,
-      "url": "mods/rpgclasses-1.0.0.jar"
+      "url": "mods/rpgclasses-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "libipn",
@@ -361,7 +400,8 @@
       "file": "libIPN-fabric-1.21.1-6.6.3.jar",
       "sha256": "e26e788c5c3542353c0c45fba231e9208a01b182d890815c22df40a1946b903e",
       "size": 636114,
-      "url": "https://edge.forgecdn.net/files/7810/548/libIPN-fabric-1.21.1-6.6.3.jar"
+      "url": "https://edge.forgecdn.net/files/7810/548/libIPN-fabric-1.21.1-6.6.3.jar",
+      "env": "client"
     },
     {
       "id": "awoogacasino",
@@ -370,7 +410,8 @@
       "file": "lucky-1.0.jar",
       "sha256": "f4a349c4a8746d9706c885ad7c0b2126881a5f7c00299f43b10790d412e0c808",
       "size": 318421,
-      "url": "mods/lucky-1.0.jar"
+      "url": "mods/lucky-1.0.jar",
+      "env": "*"
     },
     {
       "id": "mcwbridges",
@@ -379,7 +420,8 @@
       "file": "mcw-bridges-3.1.2-mc1.21.1fabric.jar",
       "sha256": "0ee00ccd82865e987ca4c0f1a57614c288385b93aa7daac8c81c5eb359934279",
       "size": 666524,
-      "url": "https://edge.forgecdn.net/files/7628/29/mcw-bridges-3.1.2-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7628/29/mcw-bridges-3.1.2-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwdoors",
@@ -388,7 +430,8 @@
       "file": "mcw-doors-1.1.5-mc1.21.1fabric.jar",
       "sha256": "36b12175ad87cefcbde35b187b9a1c5ce9e1af1471edf6c5064ebd1a8c868ef1",
       "size": 1219302,
-      "url": "https://edge.forgecdn.net/files/7618/800/mcw-doors-1.1.5-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7618/800/mcw-doors-1.1.5-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwfences",
@@ -397,7 +440,8 @@
       "file": "mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
       "sha256": "32408564efb67ed8b02023365d19a31e80c859dbfc0e977790eb12e3a6095cba",
       "size": 651571,
-      "url": "https://edge.forgecdn.net/files/7308/375/mcw-mcwfences-1.2.1-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7308/375/mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwfurnitures",
@@ -406,7 +450,8 @@
       "file": "mcw-furniture-3.4.1-mc1.21.1fabric.jar",
       "sha256": "73d3f1f7b8a78c274919280161eefa36a3486f6b343e27f2bdd055ecf9a1da95",
       "size": 2087232,
-      "url": "https://edge.forgecdn.net/files/7255/687/mcw-furniture-3.4.1-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7255/687/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwholidays",
@@ -415,7 +460,8 @@
       "file": "mcw-holidays-1.1.2-mc1.21.1fabric.jar",
       "sha256": "ecfd07e3452eefd9aaa49cf9c0cc907031b9b0ee41368ee0c440323702798e1f",
       "size": 999600,
-      "url": "https://edge.forgecdn.net/files/7304/410/mcw-holidays-1.1.2-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7304/410/mcw-holidays-1.1.2-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwlights",
@@ -424,7 +470,8 @@
       "file": "mcw-lights-1.1.5-mc1.21.1fabric.jar",
       "sha256": "a5743a24da303ec6ef259dc3d53e4f0eb2bfccbb3ecc3f223dbeb1714e457f32",
       "size": 514085,
-      "url": "https://edge.forgecdn.net/files/7304/42/mcw-lights-1.1.5-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7304/42/mcw-lights-1.1.5-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwpaintings",
@@ -433,7 +480,8 @@
       "file": "mcw-paintings-1.1.0-mc1.21.1fabric.jar",
       "sha256": "8759114b136120e3298bf4cd61e281efd0e983f8d1949ff9fffe46e048f83a82",
       "size": 179348,
-      "url": "https://edge.forgecdn.net/files/7844/994/mcw-paintings-1.1.0-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7844/994/mcw-paintings-1.1.0-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwpaths",
@@ -442,7 +490,8 @@
       "file": "mcw-paths-1.1.2-mc1.21.1fabric.jar",
       "sha256": "f382b057bc62d5ef324021cbcd372f47ee068aa4930e0e14da6863df33081455",
       "size": 767800,
-      "url": "https://edge.forgecdn.net/files/8207/353/mcw-paths-1.1.2-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/8207/353/mcw-paths-1.1.2-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwroofs",
@@ -451,7 +500,8 @@
       "file": "mcw-roofs-2.3.2-mc1.21.1fabric.jar",
       "sha256": "f0b181de6c35f36897ea18c92181409f0ccab604ceb4c34c9a2e126ec638bbc3",
       "size": 1790000,
-      "url": "https://edge.forgecdn.net/files/6494/433/mcw-roofs-2.3.2-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/6494/433/mcw-roofs-2.3.2-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwstairs",
@@ -460,7 +510,8 @@
       "file": "mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
       "sha256": "a6243c53256ad7d0813ba9e1003ca8ed5480f5354efcea0c0e8e5cbcb0fa2267",
       "size": 521922,
-      "url": "https://edge.forgecdn.net/files/7317/453/mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7317/453/mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwtrpdoors",
@@ -469,7 +520,8 @@
       "file": "mcw-trapdoors-1.1.5-mc1.21.1fabric.jar",
       "sha256": "b32ff007aa60c90a1293d52fd3f58b04e97b3c783034376ce830fd5b7359f001",
       "size": 568267,
-      "url": "https://edge.forgecdn.net/files/7256/233/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7256/233/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mcwwindows",
@@ -478,7 +530,8 @@
       "file": "mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar",
       "sha256": "c887517505ec2568839475d625967ea2277f190f238043d1caa3f7562ff8f77d",
       "size": 1278810,
-      "url": "https://edge.forgecdn.net/files/7317/646/mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7317/646/mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar",
+      "env": "*"
     },
     {
       "id": "mezz_config",
@@ -487,7 +540,8 @@
       "file": "mezz_config-1.21.1-fabric-0.6.8.jar",
       "sha256": "0e44170bf8c04c9e690668be98ef4bffd640b8698f275852911bec7d59eb0574",
       "size": 372634,
-      "url": "https://edge.forgecdn.net/files/9048/664/mezz_config-1.21.1-fabric-0.6.8.jar"
+      "url": "https://edge.forgecdn.net/files/9048/664/mezz_config-1.21.1-fabric-0.6.8.jar",
+      "env": "*"
     },
     {
       "id": "minechem",
@@ -496,7 +550,8 @@
       "file": "minechem-0.1.0.jar",
       "sha256": "3e00553fca2015b1ff11b89a5f8032a31e64b3a4be6a3f842dcff9deda6932ae",
       "size": 497311,
-      "url": "mods/minechem-0.1.0.jar"
+      "url": "mods/minechem-0.1.0.jar",
+      "env": "*"
     },
     {
       "id": "moblassos",
@@ -505,7 +560,8 @@
       "file": "MobLassos-v21.1.1-1.21.1-Fabric.jar",
       "sha256": "a815f97df54f7168014432d23c6281578e1782cff1bbb63c1ff543f0e8bed5bb",
       "size": 104819,
-      "url": "https://edge.forgecdn.net/files/7021/570/MobLassos-v21.1.1-1.21.1-Fabric.jar"
+      "url": "https://edge.forgecdn.net/files/7021/570/MobLassos-v21.1.1-1.21.1-Fabric.jar",
+      "env": "*"
     },
     {
       "id": "modmenu",
@@ -514,7 +570,8 @@
       "file": "modmenu-11.0.5.jar",
       "sha256": "afa55fe4e7c48560126dbe654fa9647f141bc6ffd3ce35525b65dd65d88251b5",
       "size": 975846,
-      "url": "https://edge.forgecdn.net/files/8966/434/modmenu-11.0.5.jar"
+      "url": "https://edge.forgecdn.net/files/8966/434/modmenu-11.0.5.jar",
+      "env": "client"
     },
     {
       "id": "modupdater",
@@ -523,7 +580,8 @@
       "file": "modupdater-1.0.1.jar",
       "sha256": "23c5b08d76c085b62322d63ab785f3f10e7268e65cf5e5b528eaf8009fb2356e",
       "size": 70117,
-      "url": "mods/modupdater-1.0.1.jar"
+      "url": "mods/modupdater-1.0.1.jar",
+      "env": "client"
     },
     {
       "id": "refurbished_furniture",
@@ -532,7 +590,8 @@
       "file": "refurbished_furniture-fabric-1.21.1-1.0.22.jar",
       "sha256": "ccf5a4b585c41b9e629aedceb269e01b7488708f5440351e4a6862903dfe8ef4",
       "size": 6965259,
-      "url": "https://edge.forgecdn.net/files/7473/562/refurbished_furniture-fabric-1.21.1-1.0.22.jar"
+      "url": "https://edge.forgecdn.net/files/7473/562/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+      "env": "*"
     },
     {
       "id": "mysticsbiomes",
@@ -541,7 +600,8 @@
       "file": "mysticsbiomes-fabric-1.21.1-3.5.3.jar",
       "sha256": "174f8b0dde4c45f9d63fe9f3aa3725607073b0cf337fcbf9c49cbf65cd2f4897",
       "size": 1866080,
-      "url": "https://edge.forgecdn.net/files/8151/463/mysticsbiomes-fabric-1.21.1-3.5.3.jar"
+      "url": "https://edge.forgecdn.net/files/8151/463/mysticsbiomes-fabric-1.21.1-3.5.3.jar",
+      "env": "*"
     },
     {
       "id": "natures_spirit",
@@ -550,7 +610,8 @@
       "file": "naturespirit-2.2.5-1.21.1.jar",
       "sha256": "a5edd567e1348ccfd63b75668d919ed7ff2003a9dd428e5d403ffa5096508ff3",
       "size": 19149927,
-      "url": "https://edge.forgecdn.net/files/6962/791/naturespirit-2.2.5-1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/6962/791/naturespirit-2.2.5-1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "nsmb_spawn_compat",
@@ -559,7 +620,8 @@
       "file": "nsmb-spawn-compat-1.0.0.jar",
       "sha256": "6a4346dd703196678d062f2e8bebfe4f2dccb12deb92b984967e1465acbbd40a",
       "size": 2798,
-      "url": "mods/nsmb-spawn-compat-1.0.0.jar"
+      "url": "mods/nsmb-spawn-compat-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "evangelion",
@@ -568,7 +630,8 @@
       "file": "evangelion-1.0.0.jar",
       "sha256": "bda13c567b873e7ff78f82773f435fd4977bfc4c51f594171f37cf8465348426",
       "size": 1047462,
-      "url": "mods/evangelion-1.0.0.jar"
+      "url": "mods/evangelion-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "oritech",
@@ -577,7 +640,8 @@
       "file": "oritech-fabric-1.21.1-1.2.13.jar",
       "sha256": "e7b0c76c3e700adb9751fcec2bbe077dc0619293d07860acd3a33b8a6bd3cc80",
       "size": 10763611,
-      "url": "https://edge.forgecdn.net/files/9070/322/oritech-fabric-1.21.1-1.2.13.jar"
+      "url": "https://edge.forgecdn.net/files/9070/322/oritech-fabric-1.21.1-1.2.13.jar",
+      "env": "*"
     },
     {
       "id": "placeholder-api",
@@ -586,7 +650,8 @@
       "file": "placeholder-api-2.4.2+1.21.jar",
       "sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
       "size": 232325,
-      "url": "https://edge.forgecdn.net/files/6131/327/placeholder-api-2.4.2%2b1.21.jar"
+      "url": "https://edge.forgecdn.net/files/6131/327/placeholder-api-2.4.2%2b1.21.jar",
+      "env": "*"
     },
     {
       "id": "presencefootsteps",
@@ -595,7 +660,8 @@
       "file": "PresenceFootsteps-1.10.2+1.21.jar",
       "sha256": "d648875b2ce624cade82f4d16adf7ae27b301228d43be0134413d44b3551433e",
       "size": 5672720,
-      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/O1zeCf5e/PresenceFootsteps-1.10.2%2B1.21.jar"
+      "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/O1zeCf5e/PresenceFootsteps-1.10.2%2B1.21.jar",
+      "env": "client"
     },
     {
       "id": "punchy",
@@ -604,7 +670,8 @@
       "file": "punchy-2.8c-fabric-1.21.1.jar",
       "sha256": "25cbf73e6260b6e9dcffd1aec010c4d30993d9011d58650cfb730aaf34219895",
       "size": 1858121,
-      "url": "https://edge.forgecdn.net/files/9004/861/punchy-2.8c-fabric-1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/9004/861/punchy-2.8c-fabric-1.21.1.jar",
+      "env": "client"
     },
     {
       "id": "puzzleslib",
@@ -613,7 +680,8 @@
       "file": "puzzleslib-v21.1.64-mc1.21.1+fabric.jar",
       "sha256": "e4dd33e2aaff78cc3fd7b873ccce0fede9d853b7659f1c0ca016c6fe1fd0348d",
       "size": 1507546,
-      "url": "https://edge.forgecdn.net/files/9130/153/puzzleslib-v21.1.64-mc1.21.1%2bfabric.jar"
+      "url": "https://edge.forgecdn.net/files/9130/153/puzzleslib-v21.1.64-mc1.21.1%2bfabric.jar",
+      "env": "*"
     },
     {
       "id": "resourcefullib",
@@ -622,7 +690,8 @@
       "file": "resourcefullib-fabric-1.21-3.0.12.jar",
       "sha256": "93064c5aff85bf5e6385470f311fd1c7de172f58b02fefb1d2920db76f8cd8b5",
       "size": 485586,
-      "url": "https://edge.forgecdn.net/files/5973/189/resourcefullib-fabric-1.21-3.0.12.jar"
+      "url": "https://edge.forgecdn.net/files/5973/189/resourcefullib-fabric-1.21-3.0.12.jar",
+      "env": "*"
     },
     {
       "id": "resourcefulconfig",
@@ -631,7 +700,8 @@
       "file": "resourcefulconfig-fabric-1.21-3.0.11.jar",
       "sha256": "8c2624ddeda09d00c42095a37281dc502c6dcaffae68a3e08c3ea57fef28425e",
       "size": 345396,
-      "url": "https://edge.forgecdn.net/files/6467/774/resourcefulconfig-fabric-1.21-3.0.11.jar"
+      "url": "https://edge.forgecdn.net/files/6467/774/resourcefulconfig-fabric-1.21-3.0.11.jar",
+      "env": "*"
     },
     {
       "id": "rightclickharvest",
@@ -640,7 +710,8 @@
       "file": "rightclickharvest-fabric-4.6.1+1.21.1.jar",
       "sha256": "ad51405287cc76b6ce5f358b1ef36463ad5575520982fc697d531d3ceb74130f",
       "size": 286902,
-      "url": "https://edge.forgecdn.net/files/7508/748/rightclickharvest-fabric-4.6.1%2b1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/7508/748/rightclickharvest-fabric-4.6.1%2b1.21.1.jar",
+      "env": "*"
     },
     {
       "id": "voicechat",
@@ -649,7 +720,8 @@
       "file": "voicechat-fabric-1.21.1-2.6.22.jar",
       "sha256": "972a01592f670aa57f2dc2e3587a656b798106037468c61e4bfb49eba7d6ae36",
       "size": 5369475,
-      "url": "https://edge.forgecdn.net/files/8601/219/voicechat-fabric-1.21.1-2.6.22.jar"
+      "url": "https://edge.forgecdn.net/files/8601/219/voicechat-fabric-1.21.1-2.6.22.jar",
+      "env": "*"
     },
     {
       "id": "skinwalker",
@@ -658,7 +730,8 @@
       "file": "skinwalker-1.0.0.jar",
       "sha256": "6d9ee88b79e43daba937f59fdda3e50731420c6a13d7cea9a4a41fc8f207ed0b",
       "size": 48122,
-      "url": "mods/skinwalker-1.0.0.jar"
+      "url": "mods/skinwalker-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "sodium",
@@ -667,7 +740,8 @@
       "file": "sodium-fabric-0.6.0+mc1.21.1.jar",
       "sha256": "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e",
       "size": 1281394,
-      "url": "https://edge.forgecdn.net/files/5909/714/sodium-fabric-0.6.0%2bmc1.21.1.jar"
+      "url": "https://edge.forgecdn.net/files/5909/714/sodium-fabric-0.6.0%2bmc1.21.1.jar",
+      "env": "client"
     },
     {
       "id": "sophisticatedbackpacks",
@@ -676,7 +750,8 @@
       "file": "sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
       "sha256": "2c099bfd5dc02ace6e73ffd9259940b0597cd4da7216a53a2c60c6732900d6aa",
       "size": 988478,
-      "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/nHhuPdda/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
+      "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/nHhuPdda/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+      "env": "*"
     },
     {
       "id": "sophisticatedcore",
@@ -685,7 +760,8 @@
       "file": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
       "sha256": "3c71a04d5b03cdf9d9fe50e71849fdf11291dd1fab149621e35688ef6e516054",
       "size": 2996065,
-      "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+      "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+      "env": "*"
     },
     {
       "id": "sound_physics_remastered",
@@ -694,7 +770,8 @@
       "file": "sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
       "sha256": "ace731943db3a02c375e401d18bab3756be4582015066643db9b4a9dead87fbb",
       "size": 205305,
-      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/BYhL3BDk/sound-physics-remastered-fabric-1.21.1-1.5.2.jar"
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/BYhL3BDk/sound-physics-remastered-fabric-1.21.1-1.5.2.jar",
+      "env": "*"
     },
     {
       "id": "suitup",
@@ -703,7 +780,8 @@
       "file": "suitup-1.0.0.jar",
       "sha256": "6c58e2cef5cda569ba91e52df8c66d973f1e92076b43ba873dea93ba69dee9e7",
       "size": 1394302,
-      "url": "mods/suitup-1.0.0.jar"
+      "url": "mods/suitup-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "terrablender",
@@ -712,7 +790,8 @@
       "file": "terrablender-fabric-1.21.1-4.1.0.8.jar",
       "sha256": "f87e94a7fa1227711c3f8aea9ffac7a14e0c7be212fe50ddee95d2c6ba723cac",
       "size": 337990,
-      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
+      "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+      "env": "*"
     },
     {
       "id": "butcher",
@@ -721,7 +800,8 @@
       "file": "the-butcher-1.0.3.jar",
       "sha256": "e72ac08f18034d7a3f4880a1ec84e32b21107d3f817f84e2e6e046b8d5e51851",
       "size": 4154628,
-      "url": "mods/the-butcher-1.0.3.jar"
+      "url": "mods/the-butcher-1.0.3.jar",
+      "env": "*"
     },
     {
       "id": "veintimber",
@@ -730,7 +810,8 @@
       "file": "veintimber-1.0.0.jar",
       "sha256": "eb68f05c82663144358355092e5ff14a36c26c3863ee90badca0ec849df7ccea",
       "size": 17038,
-      "url": "mods/veintimber-1.0.0.jar"
+      "url": "mods/veintimber-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "vinny",
@@ -739,7 +820,8 @@
       "file": "vinny-1.0.0.jar",
       "sha256": "4ec54226bbd7331181df20342c645cff784e381aa36dacd9f740f2ad0d91d2a8",
       "size": 219420,
-      "url": "mods/vinny-1.0.0.jar"
+      "url": "mods/vinny-1.0.0.jar",
+      "env": "*"
     },
     {
       "id": "xaerominimap",
@@ -748,7 +830,8 @@
       "file": "xaerominimap-fabric-1.21.1-26.6.0.jar",
       "sha256": "86bdc4282a73ed55e6a4903a7ba65940a6aed20404f7ab7c96f8d94078accd1b",
       "size": 2234556,
-      "url": "https://edge.forgecdn.net/files/9067/178/xaerominimap-fabric-1.21.1-26.6.0.jar"
+      "url": "https://edge.forgecdn.net/files/9067/178/xaerominimap-fabric-1.21.1-26.6.0.jar",
+      "env": "*"
     },
     {
       "id": "xaeroworldmap",
@@ -757,7 +840,8 @@
       "file": "xaeroworldmap-fabric-1.21.1-1.47.0.jar",
       "sha256": "3e8211e02681f8bc17e1a066b3fcffddfa969cff03f48a5400016f587ba5f8f2",
       "size": 1456162,
-      "url": "https://edge.forgecdn.net/files/9067/275/xaeroworldmap-fabric-1.21.1-1.47.0.jar"
+      "url": "https://edge.forgecdn.net/files/9067/275/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+      "env": "*"
     }
   ],
   "remove": [],
