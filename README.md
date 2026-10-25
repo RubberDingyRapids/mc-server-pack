@@ -45,3 +45,12 @@ Options worth knowing: `--file path:overwrite` forces a config onto clients even
   defaults to `core.autocrlf=true`, which would store a CRLF config as LF and break its sha256 on clients.
 - raw.githubusercontent.com caches for up to 5 minutes, so a push can take that long to show up in game.
 - The updater only reads the manifest url baked into the mod (`config/modupdater.json` on a client overrides it).
+
+## server updater app (25 Oct 2026 onwards)
+
+`manifest.json` is now maintained by the **Server Updater** desktop app (`server-updater/` in the project, exe for
+Derpy and Pat), which edits entries by mod id over the GitHub API and commits jars into `mods/` when they aren't
+on Modrinth/CurseForge. Entries carry an extra `"env"` field (`*` / `client` / `server`) that the server-side
+sync reads; the client mod ignores it. `server-manifest.json` holds server-only mods and is never read by clients.
+The box pulls both manifests on every start (`server-sync.jar`). Only run `tools/make_manifest.py` for a full
+rebuild, after `git pull`; it drops `env`.
