@@ -146,11 +146,11 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "1.0.0",
-      "file": "dragonrider-1.0.0.jar",
-      "sha256": "33948132dc54fb571c2fae19bd8401c267b8c046f90311901afcbe51fb4e104b",
-      "size": 1300843,
-      "url": "mods/dragonrider-1.0.0.jar",
+      "version": "1.1.0",
+      "file": "dragonrider-1.1.0.jar",
+      "sha256": "59efc9f685a96cad5025e30d63b8027da5708dea1e3b4aa3c56c71bee8d71d79",
+      "size": 1476969,
+      "url": "mods/dragonrider-1.1.0.jar",
       "env": "*"
     },
     {
