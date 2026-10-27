@@ -1,18 +1,5 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "particlerain",
-      "name": "Particle Rain",
-      "version": "4.0.2",
-      "file": "particlerain-4.0.2+1.21.1-fabric.jar",
-      "sha256": "094d68197cfb6a04d8d63813fac35c26539e357ebcac8d965ab8241559131ac1",
-      "size": 626772,
-      "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/jquizTC2/particlerain-4.0.2%2B1.21.1-fabric.jar",
-      "env": "client",
-      "by": "RemiVT",
-      "at": "2026-10-27 13:46"
-    }
-  ],
+  "pack": [],
   "server": []
 }
