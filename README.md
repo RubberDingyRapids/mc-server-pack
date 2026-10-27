@@ -54,3 +54,7 @@ on Modrinth/CurseForge. Entries carry an extra `"env"` field (`*` / `client` / `
 sync reads; the client mod ignores it. `server-manifest.json` holds server-only mods and is never read by clients.
 The box pulls both manifests on every start (`server-sync.jar`). Only run `tools/make_manifest.py` for a full
 rebuild, after `git pull`; it drops `env`.
+
+Since 27 Oct 2026 uploads land in **`staging.json`** (+ jars under `staging/`) first and only move into the
+manifests / `mods/` when someone presses *publish + restart* in the app, so clients never get ahead of the server.
+Nothing but the app reads `staging.json`; `remove` can temporarily list a mod that was published and then undone.
