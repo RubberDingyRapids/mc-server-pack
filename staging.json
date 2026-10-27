@@ -1,5 +1,30 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "dragonrider",
+      "name": "Dragon Rider",
+      "version": "1.5.2",
+      "file": "dragonrider-1.5.2.jar",
+      "sha256": "ce353707827aefc81f23291de64b02cb2a89390b25c7e297604044aac116ca80",
+      "size": 2237454,
+      "url": "staging/dragonrider-1.5.2.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-10-27 21:16"
+    },
+    {
+      "id": "vinny",
+      "name": "Vinny",
+      "version": "3.0.1",
+      "file": "vinny-3.0.1.jar",
+      "sha256": "b3536e8ac9e99f31bb01db1f3a1ce6cc8de48b719b2da33f4d428b7a3efe15ff",
+      "size": 316766,
+      "url": "staging/vinny-3.0.1.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-10-27 21:16"
+    }
+  ],
   "server": []
 }
