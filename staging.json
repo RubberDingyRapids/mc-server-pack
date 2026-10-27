@@ -2,6 +2,30 @@
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
   "pack": [
     {
+      "id": "skinlayers3d",
+      "name": "3d-Skin-Layers",
+      "version": "1.11.4",
+      "file": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "sha256": "af04f7c2d59aa72ff8c872a348b0e0eef65d25e1ae73bfe2abac0732a6709814",
+      "size": 1914438,
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-10-27 07:23"
+    },
+    {
+      "id": "dragonrider",
+      "name": "Dragon Rider",
+      "version": "1.2.0",
+      "file": "dragonrider-1.2.0.jar",
+      "sha256": "9b4247edbac651aadfc25c2823f7297812ba4aec549dc396c32dd2689d684685",
+      "size": 1508165,
+      "url": "staging/dragonrider-1.2.0.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-10-27 07:23"
+    },
+    {
       "id": "gbe",
       "name": "Gravitational Beam Emitter",
       "version": "1.1.0",
