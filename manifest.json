@@ -36,11 +36,11 @@
     {
       "id": "mctarot",
       "name": "Arcana of Fate",
-      "version": "0.1.1",
-      "file": "mctarot-0.1.1.jar",
-      "sha256": "71abac6442e869072565766a3f84f0ecbcbfb26cc7a659c723e40b18df31626c",
-      "size": 894813,
-      "url": "mods/mctarot-0.1.1.jar",
+      "version": "0.1.0",
+      "file": "mctarot-0.1.3.jar",
+      "sha256": "34f271e0fff53d9553a95d4f3c2d32160505cefd4675100d76b7595be57751d6",
+      "size": 898711,
+      "url": "mods/mctarot-0.1.3.jar",
       "env": "*"
     },
     {
@@ -156,11 +156,11 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "1.5.0",
-      "file": "dragonrider-1.5.0.jar",
-      "sha256": "54dd262357a5bbc9ff2ea77eb3db47559fcbcd95aaa3b4d17a642ef3287b95a6",
-      "size": 2216768,
-      "url": "mods/dragonrider-1.5.0.jar",
+      "version": "1.5.2",
+      "file": "dragonrider-1.5.2.jar",
+      "sha256": "ce353707827aefc81f23291de64b02cb2a89390b25c7e297604044aac116ca80",
+      "size": 2237454,
+      "url": "mods/dragonrider-1.5.2.jar",
       "env": "*"
     },
     {
@@ -836,11 +836,11 @@
     {
       "id": "vinny",
       "name": "Vinny",
-      "version": "3.0.0",
-      "file": "vinny-3.0.0.jar",
-      "sha256": "9ea9f49ae1350af570896a85ab5d927ed4852ad45411f9bd7b0e7b0dce0f6976",
-      "size": 316132,
-      "url": "mods/vinny-3.0.0.jar",
+      "version": "3.0.1",
+      "file": "vinny-3.0.1.jar",
+      "sha256": "b3536e8ac9e99f31bb01db1f3a1ce6cc8de48b719b2da33f4d428b7a3efe15ff",
+      "size": 316766,
+      "url": "mods/vinny-3.0.1.jar",
       "env": "*"
     },
     {
