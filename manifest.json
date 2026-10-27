@@ -286,11 +286,11 @@
     {
       "id": "gbe",
       "name": "Gravitational Beam Emitter",
-      "version": "1.1.0",
-      "file": "gbe-1.1.0.jar",
-      "sha256": "caf497b72ca8763f3e7893259990f5757a5973ecc11a0b82c456ad6d5c5bc9bb",
-      "size": 100354,
-      "url": "mods/gbe-1.1.0.jar",
+      "version": "1.0.0",
+      "file": "gbe-1.0.0.jar",
+      "sha256": "e4a2040621349d5704709f8d6fb2be363f78712cefd019778c8f218eef2f9b85",
+      "size": 100067,
+      "url": "mods/gbe-1.0.0.jar",
       "env": "*"
     },
     {
@@ -824,16 +824,6 @@
       "env": "*"
     },
     {
-      "id": "voodoo",
-      "name": "Voodoo's Compendium of Shite",
-      "version": "1.0.0",
-      "file": "VoodoosCompendium-1.0.0.jar",
-      "sha256": "ee3ac85ebfc85eb5c3f1f57e86e269f1e458528a06dd0562cb9133cc536517a4",
-      "size": 3232349,
-      "url": "mods/VoodoosCompendium-1.0.0.jar",
-      "env": "*"
-    },
-    {
       "id": "xaerominimap",
       "name": "Xaero's Minimap",
       "version": "26.6.0",
@@ -854,7 +844,9 @@
       "env": "*"
     }
   ],
-  "remove": [],
+  "remove": [
+    "voodoo"
+  ],
   "files": [
     {
       "path": "config/punchy/punchy_config.json",

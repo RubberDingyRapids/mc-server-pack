@@ -1,0 +1,30 @@
+{
+  "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
+  "pack": [
+    {
+      "id": "gbe",
+      "name": "Gravitational Beam Emitter",
+      "version": "1.1.0",
+      "file": "gbe-1.1.0.jar",
+      "sha256": "caf497b72ca8763f3e7893259990f5757a5973ecc11a0b82c456ad6d5c5bc9bb",
+      "size": 100354,
+      "url": "staging/gbe-1.1.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-10-27 00:53"
+    },
+    {
+      "id": "voodoo",
+      "name": "Voodoo's Compendium of Shite",
+      "version": "1.0.0",
+      "file": "VoodoosCompendium-1.0.0.jar",
+      "sha256": "ee3ac85ebfc85eb5c3f1f57e86e269f1e458528a06dd0562cb9133cc536517a4",
+      "size": 3232349,
+      "url": "staging/VoodoosCompendium-1.0.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-10-27 00:53"
+    }
+  ],
+  "server": []
+}
