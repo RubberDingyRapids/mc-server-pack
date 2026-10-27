@@ -334,16 +334,6 @@
       "env": "*"
     },
     {
-      "id": "immersive_portals",
-      "name": "Immersive Portals",
-      "version": "6.0.6",
-      "file": "immersive-portals-6.0.6-mc1.21.1-fabric.jar",
-      "sha256": "07c95e7422c311b53c082a598dd533169d72fb26ee8385e6982cc7078c9f7979",
-      "size": 3121749,
-      "url": "https://edge.forgecdn.net/files/5946/966/immersive-portals-6.0.6-mc1.21.1-fabric.jar",
-      "env": "*"
-    },
-    {
       "id": "inventoryprofilesnext",
       "name": "Inventory Profiles Next",
       "version": "2.2.6",
