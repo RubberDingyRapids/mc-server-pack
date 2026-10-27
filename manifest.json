@@ -156,11 +156,11 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "1.3.0",
-      "file": "dragonrider-1.3.0.jar",
-      "sha256": "8b459ac3161a8eefe5ce590cf311f089fb7f9dc726455e8fbd280d0a83b07cc6",
-      "size": 2089284,
-      "url": "mods/dragonrider-1.3.0.jar",
+      "version": "1.4.0",
+      "file": "dragonrider-1.4.0.jar",
+      "sha256": "a87d102d9ec32cee7ac517f130056a39b404f484fbb113e02ec101e289de8b7f",
+      "size": 2197745,
+      "url": "mods/dragonrider-1.4.0.jar",
       "env": "*"
     },
     {
@@ -637,10 +637,10 @@
       "id": "evangelion",
       "name": "Neon Genesis Evangelion",
       "version": "1.0.0",
-      "file": "evangelion-1.0.0.jar",
-      "sha256": "bda13c567b873e7ff78f82773f435fd4977bfc4c51f594171f37cf8465348426",
-      "size": 1047462,
-      "url": "mods/evangelion-1.0.0.jar",
+      "file": "evangelion-1.1.0.jar",
+      "sha256": "b7a80a40a120c0ac561a43ccc326455a286d7ed6d85f595bd1a06bb25085db50",
+      "size": 1838055,
+      "url": "mods/evangelion-1.1.0.jar",
       "env": "*"
     },
     {
@@ -836,11 +836,11 @@
     {
       "id": "vinny",
       "name": "Vinny",
-      "version": "2.0.0",
-      "file": "vinny-2.0.0.jar",
-      "sha256": "48e0f387e296c9b4a9c793237790f29ad9f7cffc7651a6bb724e1d5e052b6cbf",
-      "size": 313837,
-      "url": "mods/vinny-2.0.0.jar",
+      "version": "3.0.0",
+      "file": "vinny-3.0.0.jar",
+      "sha256": "9ea9f49ae1350af570896a85ab5d927ed4852ad45411f9bd7b0e7b0dce0f6976",
+      "size": 316132,
+      "url": "mods/vinny-3.0.0.jar",
       "env": "*"
     },
     {

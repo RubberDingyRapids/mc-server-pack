@@ -1,42 +1,5 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "dragonrider",
-      "name": "Dragon Rider",
-      "version": "1.4.0",
-      "file": "dragonrider-1.4.0.jar",
-      "sha256": "a87d102d9ec32cee7ac517f130056a39b404f484fbb113e02ec101e289de8b7f",
-      "size": 2197745,
-      "url": "staging/dragonrider-1.4.0.jar",
-      "env": "*",
-      "by": "RemiVT",
-      "at": "2026-10-27 18:02"
-    },
-    {
-      "id": "evangelion",
-      "name": "Neon Genesis Evangelion",
-      "version": "1.0.0",
-      "file": "evangelion-1.1.0.jar",
-      "sha256": "b7a80a40a120c0ac561a43ccc326455a286d7ed6d85f595bd1a06bb25085db50",
-      "size": 1838055,
-      "url": "staging/evangelion-1.1.0.jar",
-      "env": "*",
-      "by": "RemiVT",
-      "at": "2026-10-27 18:02"
-    },
-    {
-      "id": "vinny",
-      "name": "Vinny",
-      "version": "3.0.0",
-      "file": "vinny-3.0.0.jar",
-      "sha256": "9ea9f49ae1350af570896a85ab5d927ed4852ad45411f9bd7b0e7b0dce0f6976",
-      "size": 316132,
-      "url": "staging/vinny-3.0.0.jar",
-      "env": "*",
-      "by": "RemiVT",
-      "at": "2026-10-27 18:02"
-    }
-  ],
+  "pack": [],
   "server": []
 }
