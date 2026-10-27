@@ -4,6 +4,16 @@
   "minecraft": "1.21.1",
   "mods": [
     {
+      "id": "skinlayers3d",
+      "name": "3d-Skin-Layers",
+      "version": "1.11.4",
+      "file": "skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "sha256": "af04f7c2d59aa72ff8c872a348b0e0eef65d25e1ae73bfe2abac0732a6709814",
+      "size": 1914438,
+      "url": "https://cdn.modrinth.com/data/zV5r3pPn/versions/U5tvqtlF/skinlayers3d-fabric-1.11.4-mc1.21.1.jar",
+      "env": "*"
+    },
+    {
       "id": "ad_astra",
       "name": "Ad Astra",
       "version": "1.16.26",
@@ -146,11 +156,11 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "1.1.2",
-      "file": "dragonrider-1.1.2.jar",
-      "sha256": "51991b0ffd577ba9b11f1377dc595435476ad8795d205a935f19e606316a998f",
-      "size": 1495693,
-      "url": "mods/dragonrider-1.1.2.jar",
+      "version": "1.2.0",
+      "file": "dragonrider-1.2.0.jar",
+      "sha256": "9b4247edbac651aadfc25c2823f7297812ba4aec549dc396c32dd2689d684685",
+      "size": 1508165,
+      "url": "mods/dragonrider-1.2.0.jar",
       "env": "*"
     },
     {
@@ -286,11 +296,11 @@
     {
       "id": "gbe",
       "name": "Gravitational Beam Emitter",
-      "version": "1.0.0",
-      "file": "gbe-1.0.0.jar",
-      "sha256": "e4a2040621349d5704709f8d6fb2be363f78712cefd019778c8f218eef2f9b85",
-      "size": 100067,
-      "url": "mods/gbe-1.0.0.jar",
+      "version": "1.1.0",
+      "file": "gbe-1.1.0.jar",
+      "sha256": "caf497b72ca8763f3e7893259990f5757a5973ecc11a0b82c456ad6d5c5bc9bb",
+      "size": 100354,
+      "url": "mods/gbe-1.1.0.jar",
       "env": "*"
     },
     {
@@ -824,6 +834,16 @@
       "env": "*"
     },
     {
+      "id": "voodoo",
+      "name": "Voodoo's Compendium of Shite",
+      "version": "1.0.0",
+      "file": "VoodoosCompendium-1.0.0.jar",
+      "sha256": "ee3ac85ebfc85eb5c3f1f57e86e269f1e458528a06dd0562cb9133cc536517a4",
+      "size": 3232349,
+      "url": "mods/VoodoosCompendium-1.0.0.jar",
+      "env": "*"
+    },
+    {
       "id": "xaerominimap",
       "name": "Xaero's Minimap",
       "version": "26.6.0",
@@ -844,9 +864,7 @@
       "env": "*"
     }
   ],
-  "remove": [
-    "voodoo"
-  ],
+  "remove": [],
   "files": [
     {
       "path": "config/punchy/punchy_config.json",
