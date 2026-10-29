@@ -36,11 +36,11 @@
     {
       "id": "mctarot",
       "name": "Arcana of Fate",
-      "version": "0.1.0",
-      "file": "mctarot-0.1.3.jar",
-      "sha256": "34f271e0fff53d9553a95d4f3c2d32160505cefd4675100d76b7595be57751d6",
-      "size": 898711,
-      "url": "mods/mctarot-0.1.3.jar",
+      "version": "0.1.6",
+      "file": "mctarot-0.1.6.jar",
+      "sha256": "aea1677eac46b7d935edb6353c837014581fc72f34519837ef685cf0e00abc16",
+      "size": 975499,
+      "url": "mods/mctarot-0.1.6.jar",
       "env": "*"
     },
     {
