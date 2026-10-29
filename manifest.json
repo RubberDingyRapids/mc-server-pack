@@ -154,16 +154,6 @@
       "env": "*"
     },
     {
-      "id": "elarisgraves",
-      "name": "Elaris Graves",
-      "version": "1.0.0",
-      "file": "elaris-graves-1.0.0.jar",
-      "sha256": "6e969b4c4cfefd19f68e6c8ae18e2baf22b53c2fc5e9fe26b8af02bbc4ab1ede",
-      "size": 46704,
-      "url": "mods/elaris-graves-1.0.0.jar",
-      "env": "*"
-    },
-    {
       "id": "essential-container",
       "name": "essential-container",
       "version": "1.0.0",
