@@ -1,5 +1,18 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "mctarot",
+      "name": "Arcana of Fate",
+      "version": "0.1.6",
+      "file": "mctarot-0.1.6.jar",
+      "sha256": "aea1677eac46b7d935edb6353c837014581fc72f34519837ef685cf0e00abc16",
+      "size": 975499,
+      "url": "staging/mctarot-0.1.6.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-10-29 18:13"
+    }
+  ],
   "server": []
 }
