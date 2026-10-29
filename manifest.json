@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-10-27",
+  "version": "2026-10-29",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -124,16 +124,6 @@
       "env": "*"
     },
     {
-      "id": "cosmeticarmour",
-      "name": "Cosmetic Armour",
-      "version": "1.01",
-      "file": "cosmeticarmour-1.01.jar",
-      "sha256": "bd6ad0254f3784a9e4bd58f8777be4813d24935d12fad30bd02bb615751ebb93",
-      "size": 4243205,
-      "url": "mods/cosmeticarmour-1.01.jar",
-      "env": "*"
-    },
-    {
       "id": "creativecore",
       "name": "CreativeCore",
       "version": "2.13.48",
@@ -156,11 +146,21 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "1.5.5",
-      "file": "dragonrider-1.5.5.jar",
-      "sha256": "fa9d4350a6ec0a118b55bf486374d44a532705023a9b92fe7358e630af160264",
-      "size": 2243918,
-      "url": "mods/dragonrider-1.5.5.jar",
+      "version": "1.5.6",
+      "file": "dragonrider-1.5.6.jar",
+      "sha256": "01ad5399860c7b4040db251a79588c13769a3768d8f7d70b90ababf2d851d8a4",
+      "size": 2259850,
+      "url": "mods/dragonrider-1.5.6.jar",
+      "env": "*"
+    },
+    {
+      "id": "elarisgraves",
+      "name": "Elaris Graves",
+      "version": "1.0.0",
+      "file": "elaris-graves-1.0.0.jar",
+      "sha256": "6e969b4c4cfefd19f68e6c8ae18e2baf22b53c2fc5e9fe26b8af02bbc4ab1ede",
+      "size": 46704,
+      "url": "mods/elaris-graves-1.0.0.jar",
       "env": "*"
     },
     {
@@ -627,10 +627,10 @@
       "id": "evangelion",
       "name": "Neon Genesis Evangelion",
       "version": "1.0.0",
-      "file": "evangelion-1.1.0.jar",
-      "sha256": "b7a80a40a120c0ac561a43ccc326455a286d7ed6d85f595bd1a06bb25085db50",
-      "size": 1838055,
-      "url": "mods/evangelion-1.1.0.jar",
+      "file": "evangelion-1.2.0.jar",
+      "sha256": "abd047dd313c16a0cd8c673719551ae847ab57ce7c1a2b656ce481eb7c00c2f9",
+      "size": 1838084,
+      "url": "mods/evangelion-1.2.0.jar",
       "env": "*"
     },
     {
@@ -841,6 +841,26 @@
       "sha256": "ee3ac85ebfc85eb5c3f1f57e86e269f1e458528a06dd0562cb9133cc536517a4",
       "size": 3232349,
       "url": "mods/VoodoosCompendium-1.0.0.jar",
+      "env": "*"
+    },
+    {
+      "id": "cosmeticarmour",
+      "name": "Voodoo's Cosmetic Armour and Tools",
+      "version": "1.0.1",
+      "file": "cosmeticarmour-1.0.1.jar",
+      "sha256": "e21a36ec0fec54df59d85eb01d4f6a7f8c7767e0c51f580d00a740a7fd75b524",
+      "size": 11418056,
+      "url": "mods/cosmeticarmour-1.0.1.jar",
+      "env": "*"
+    },
+    {
+      "id": "voodoosvapes",
+      "name": "Voodoo's Dispensary",
+      "version": "1.0",
+      "file": "Voodoos-Dispensary-1.0.jar",
+      "sha256": "19f3861b9446481517dd0ba44e8f2456aa95ccd4a958f0da10f7ecd6fdcdb92d",
+      "size": 298454,
+      "url": "mods/Voodoos-Dispensary-1.0.jar",
       "env": "*"
     },
     {
