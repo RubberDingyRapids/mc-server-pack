@@ -876,11 +876,11 @@
     {
       "id": "voodoosvapes",
       "name": "Voodoo's Dispensary",
-      "version": "1.0",
-      "file": "Voodoos-Dispensary-1.0.jar",
-      "sha256": "19f3861b9446481517dd0ba44e8f2456aa95ccd4a958f0da10f7ecd6fdcdb92d",
-      "size": 298454,
-      "url": "mods/Voodoos-Dispensary-1.0.jar",
+      "version": "1.0.1",
+      "file": "Voodoos-Dispensary-1.0.1.jar",
+      "sha256": "51a61435eb6df7586edc03013480041b03778901f15eda7f3979f46b072ae70a",
+      "size": 299748,
+      "url": "mods/Voodoos-Dispensary-1.0.1.jar",
       "env": "*"
     },
     {

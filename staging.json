@@ -1,19 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "voodoosvapes",
-      "name": "Voodoo's Dispensary",
-      "version": "1.0.1",
-      "file": "Voodoos-Dispensary-1.0.1.jar",
-      "sha256": "51a61435eb6df7586edc03013480041b03778901f15eda7f3979f46b072ae70a",
-      "size": 299748,
-      "url": "staging/Voodoos-Dispensary-1.0.1.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-10-31 00:21"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
