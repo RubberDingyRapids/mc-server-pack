@@ -1,43 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "ferritecore",
-      "name": "FerriteCore",
-      "version": "7.0.3",
-      "file": "ferritecore-7.0.3-fabric.jar",
-      "sha256": "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2",
-      "size": 123450,
-      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-10-29 21:32"
-    },
-    {
-      "id": "gbe",
-      "name": "Gravitational Beam Emitter",
-      "version": "1.4.0",
-      "file": "gbe-1.4.0.jar",
-      "sha256": "9084fc51af02141dd7006b7c1452b31889fabeeea38c977b929ac3b1d8a3cee7",
-      "size": 150534,
-      "url": "staging/gbe-1.4.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-10-30 01:32"
-    },
-    {
-      "id": "lithium",
-      "name": "Lithium",
-      "version": "0.15.4+mc1.21.1",
-      "file": "lithium-fabric-0.15.4+mc1.21.1.jar",
-      "sha256": "92329d98c57f5a22091a0adb509fdb1d60113a5602c708b799b13134bad13baa",
-      "size": 797454,
-      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-10-29 21:32"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
