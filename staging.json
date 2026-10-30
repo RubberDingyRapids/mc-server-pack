@@ -14,6 +14,18 @@
       "at": "2026-10-29 21:32"
     },
     {
+      "id": "gbe",
+      "name": "Gravitational Beam Emitter",
+      "version": "1.4.0",
+      "file": "gbe-1.4.0.jar",
+      "sha256": "9084fc51af02141dd7006b7c1452b31889fabeeea38c977b929ac3b1d8a3cee7",
+      "size": 150534,
+      "url": "staging/gbe-1.4.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-10-30 01:32"
+    },
+    {
       "id": "lithium",
       "name": "Lithium",
       "version": "0.15.4+mc1.21.1",
@@ -26,5 +38,6 @@
       "at": "2026-10-29 21:32"
     }
   ],
-  "server": []
+  "server": [],
+  "ops": []
 }
