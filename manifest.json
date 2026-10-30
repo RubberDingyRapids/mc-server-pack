@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-10-30",
+  "version": "2026-10-31",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -36,11 +36,11 @@
     {
       "id": "mctarot",
       "name": "Arcana of Fate",
-      "version": "0.1.7",
-      "file": "mctarot-0.1.7.jar",
-      "sha256": "551e8ef6509e35fb7cf6ac9d82d7bb4cf3243c4b7d10339d3147c03ac2021543",
-      "size": 976913,
-      "url": "mods/mctarot-0.1.7.jar",
+      "version": "0.1.10",
+      "file": "mctarot-0.1.10.jar",
+      "sha256": "d6bb1e4a5d84636a5bbe4e0d1a9e48542081a046faa6403d88eb9d939acd800a",
+      "size": 1014084,
+      "url": "mods/mctarot-0.1.10.jar",
       "env": "*"
     },
     {
