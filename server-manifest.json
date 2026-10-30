@@ -1,8 +1,229 @@
 {
   "pack": "derpys server pack (server side)",
-  "version": "2026-10-25",
+  "version": "2026-10-30",
   "minecraft": "1.21.1",
-  "mods": [],
+  "mods": [
+    {
+      "id": "almanac",
+      "name": "Almanac",
+      "version": "1.5.2",
+      "file": "Almanac-1.21.1-2-fabric-1.5.2.jar",
+      "sha256": "fe375dc91dc9d10071090b989f7296dbddc968feb7bb24cf3b92ef2aed217d93",
+      "size": 1039789,
+      "url": "https://cdn.modrinth.com/data/Gi02250Z/versions/hUgNmeCO/Almanac-1.21.1-2-fabric-1.5.2.jar",
+      "env": "server"
+    },
+    {
+      "id": "carpet",
+      "name": "Carpet Mod",
+      "version": "1.4.147+v240613",
+      "file": "fabric-carpet-1.21-1.4.147+v240613.jar",
+      "sha256": "079fc8a4e073eb24b010ffcc588e59f93b984143e17d8ef19fbb0b6aff0f19d9",
+      "size": 1525027,
+      "url": "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar",
+      "env": "server"
+    },
+    {
+      "id": "clumps",
+      "name": "Clumps",
+      "version": "19.0.0.1",
+      "file": "Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "sha256": "49e406cb2872e24a2d2dbe461b93f0c8fbee1748d14c2a941e54f785e3a1e1a7",
+      "size": 20723,
+      "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "creativelog",
+      "name": "Creative Log",
+      "version": "1.0.0",
+      "file": "creativelog-1.0.0.jar",
+      "sha256": "faf66b83203c928e255688093df4b79eeac77f8cd2c553c26b002403a7e10fed",
+      "size": 9624,
+      "url": "mods/creativelog-1.0.0.jar",
+      "env": "server"
+    },
+    {
+      "id": "cslfix",
+      "name": "CSL Empty Sync Fix",
+      "version": "1.0.1",
+      "file": "cslfix-1.0.1.jar",
+      "sha256": "9a078c7e2fce3c22fcb1d6ff035b92c6864f1c9fc674e00c7e8ab4f83bdf7096",
+      "size": 2964,
+      "url": "mods/cslfix-1.0.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "essential_commands",
+      "name": "Essential Commands",
+      "version": "0.35.2-mc1.21",
+      "file": "essential_commands-0.35.2-mc1.21.jar",
+      "sha256": "3b29328335d3e94bff279979d7a2afbb48af01e5738363ec014c02393f29ec18",
+      "size": 1442941,
+      "url": "https://cdn.modrinth.com/data/6VdDUivB/versions/kev3hDqV/essential_commands-0.35.2-mc1.21.jar",
+      "env": "server"
+    },
+    {
+      "id": "fabric-permissions-api-v0",
+      "name": "fabric-permissions-api",
+      "version": "0.3.1",
+      "file": "fabric-permissions-api-0.3.1.jar",
+      "sha256": "1894f9db7ea6d70f95f6b088b92a8037e87df376e8774ee2b048ddcc0f967226",
+      "size": 12935,
+      "url": "https://cdn.modrinth.com/data/lzVo0Dll/versions/62DUD085/fabric-permissions-api-0.3.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "ghostlist",
+      "name": "Ghost List",
+      "version": "1.2.1",
+      "file": "ghostlist-1.2.1.jar",
+      "sha256": "7bc2e7832e32eb3551fcdf8a6a8f4b9577351dbf622e80dd5e0cc5b314c24483",
+      "size": 20555,
+      "url": "mods/ghostlist-1.2.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "krypton",
+      "name": "Krypton",
+      "version": "0.2.8",
+      "file": "krypton-0.2.8.jar",
+      "sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe",
+      "size": 161045,
+      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar",
+      "env": "server"
+    },
+    {
+      "id": "ledger",
+      "name": "Ledger",
+      "version": "1.3.5",
+      "file": "ledger-1.3.5.jar",
+      "sha256": "d3a79b685b861b9f2bd0faaca211f98f5cc3513003444baefbc1515f8a76d994",
+      "size": 20475069,
+      "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/t1AtqfxZ/ledger-1.3.5.jar",
+      "env": "server"
+    },
+    {
+      "id": "letmedespawn",
+      "name": "Let Me Despawn",
+      "version": "1.5.0",
+      "file": "letmedespawn-1.21.x-fabric-1.5.0.jar",
+      "sha256": "abeac43f78a915cfa0c855fa945f07601a1509064079c4c8640c7105ba6ac554",
+      "size": 14791,
+      "url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/Wb7jqi55/letmedespawn-1.21.x-fabric-1.5.0.jar",
+      "env": "server"
+    },
+    {
+      "id": "luckperms",
+      "name": "LuckPerms",
+      "version": "5.4.140",
+      "file": "LuckPerms-Fabric-5.4.140.jar",
+      "sha256": "3e17d490f87761c174478f68860367610a473ff5c2a9a9daad608773bf0e81bc",
+      "size": 1574861,
+      "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/l47d4ZWk/LuckPerms-Fabric-5.4.140.jar",
+      "env": "server"
+    },
+    {
+      "id": "minertrack",
+      "name": "MinerTrack",
+      "version": "2.1.2.0",
+      "file": "MinerTrack-2.1.2.0+fabric.jar",
+      "sha256": "095e52d942acde2f1370224c56c2edce5edc08bf2581b9dee90e464abad53073",
+      "size": 2946244,
+      "url": "https://cdn.modrinth.com/data/O3VQnhG2/versions/1cXUtMXL/MinerTrack-2.1.2.0%2Bfabric.jar",
+      "env": "server"
+    },
+    {
+      "id": "mobmask",
+      "name": "Mob Mask",
+      "version": "1.1.1",
+      "file": "mobmask-1.1.1.jar",
+      "sha256": "d53229f04d6cbc6d7065da9cc29649732fd6e054a8a162a5382c6a0fe3e0a69d",
+      "size": 21877,
+      "url": "mods/mobmask-1.1.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "modernfix",
+      "name": "ModernFix",
+      "version": "5.25.1+mc1.21.1",
+      "file": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "sha256": "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c",
+      "size": 471258,
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "polymer-bundled",
+      "name": "Polymer",
+      "version": "0.9.19+1.21.1",
+      "file": "polymer-bundled-0.9.19+1.21.1.jar",
+      "sha256": "8c6bb7897bf53e3207a2ca4fc26db55471990b605855f494c2d80bfcabd1ed3b",
+      "size": 1705944,
+      "url": "https://cdn.modrinth.com/data/xGdtZczs/versions/xqZ9fctS/polymer-bundled-0.9.19%2B1.21.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "quietcommands",
+      "name": "Quiet Commands",
+      "version": "1.0.0",
+      "file": "quietcommands-1.0.0.jar",
+      "sha256": "6561f38f77e0f73a11e6cd0d6ef1d1edfe4569d8215944bf89e627db0da8ea3b",
+      "size": 2863,
+      "url": "mods/quietcommands-1.0.0.jar",
+      "env": "server"
+    },
+    {
+      "id": "servercore",
+      "name": "ServerCore",
+      "version": "1.5.19+1.21.1",
+      "file": "servercore-fabric-1.5.19+1.21.1.jar",
+      "sha256": "be4540227b296d1d9435a20cb5df9bfabf9f0b150592740d2db6e8d5f8533d8d",
+      "size": 897353,
+      "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/GQ2a51Rl/servercore-fabric-1.5.19%2B1.21.1.jar",
+      "env": "server"
+    },
+    {
+      "id": "spark",
+      "name": "spark",
+      "version": "1.10.109",
+      "file": "spark-1.10.109-fabric.jar",
+      "sha256": "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047",
+      "size": 3609981,
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar",
+      "env": "server"
+    },
+    {
+      "id": "universal-graves",
+      "name": "Universal Graves",
+      "version": "3.4.4+1.21",
+      "file": "graves-3.4.4+1.21.jar",
+      "sha256": "3b46ddc0911b8bfc2ba6eabae03f7071afee8b5816a3f11104d7899073a023d3",
+      "size": 1709158,
+      "url": "https://cdn.modrinth.com/data/yn9u3ypm/versions/Fg64B87Y/graves-3.4.4%2B1.21.jar",
+      "env": "server"
+    },
+    {
+      "id": "universal_perms",
+      "name": "Universal Perms",
+      "version": "1.0.6",
+      "file": "UniversalPerms-1.0.6.jar",
+      "sha256": "c5360f3f4f415a915957ffd990aae4bc603698667fadf591abac4259c176e6a1",
+      "size": 442561,
+      "url": "https://cdn.modrinth.com/data/GyrkNvLS/versions/CQw1V6ME/UniversalPerms-1.0.6.jar",
+      "env": "server"
+    },
+    {
+      "id": "vanish",
+      "name": "Vanish",
+      "version": "1.6.16+1.21.1",
+      "file": "vanish-1.6.16+1.21.1.jar",
+      "sha256": "f0b5a8968332de23aa13d47495f9b4fb8dfdffb5d1c66e152d56797c361659d5",
+      "size": 1236555,
+      "url": "https://cdn.modrinth.com/data/UL4bJFDY/versions/tK9T0u3x/vanish-1.6.16%2B1.21.1.jar",
+      "env": "server"
+    }
+  ],
   "remove": [],
   "files": []
 }
