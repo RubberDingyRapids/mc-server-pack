@@ -1,6 +1,19 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "goldenlassoowner",
+      "name": "Lasso Owner Lock",
+      "version": "1.1.0",
+      "file": "golden-lasso-owner-1.1.0.jar",
+      "sha256": "1b26e7171e31f9c75c2540804f32d45cd3da0964c5a8550ec0d85010f4571a3a",
+      "size": 4607,
+      "url": "staging/golden-lasso-owner-1.1.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-01 00:12"
+    }
+  ],
   "server": [],
   "ops": []
 }
