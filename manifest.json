@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-10-31",
+  "version": "2026-11-01",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -391,6 +391,16 @@
       "sha256": "6fee27e381d5bb22003cf3eb85b131ee892de0f7dc43ca57e6f8fda81a4903e0",
       "size": 2293144,
       "url": "https://edge.forgecdn.net/files/9068/135/jei-1.21.1-fabric-19.57.0.451.jar",
+      "env": "*"
+    },
+    {
+      "id": "goldenlassoowner",
+      "name": "Lasso Owner Lock",
+      "version": "1.1.0",
+      "file": "golden-lasso-owner-1.1.0.jar",
+      "sha256": "1b26e7171e31f9c75c2540804f32d45cd3da0964c5a8550ec0d85010f4571a3a",
+      "size": 4607,
+      "url": "mods/golden-lasso-owner-1.1.0.jar",
       "env": "*"
     },
     {
