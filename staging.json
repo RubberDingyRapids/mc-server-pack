@@ -24,6 +24,18 @@
       "env": "*",
       "by": "RubberDingyRapids",
       "at": "2026-11-02 15:22"
+    },
+    {
+      "id": "voodoo",
+      "name": "Voodoo's Compendium of Shite",
+      "version": "1.1.0",
+      "file": "VoodoosCompendium-1.1.0.jar",
+      "sha256": "d8d48190f210d1f44e635b9a7ecb1342472a7e4ffcb20d2b3d438f99c7f2501b",
+      "size": 4314821,
+      "url": "staging/VoodoosCompendium-1.1.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-02 15:24"
     }
   ],
   "server": [],
