@@ -2,6 +2,18 @@
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
   "pack": [
     {
+      "id": "mctarot",
+      "name": "Arcana of Fate",
+      "version": "0.1.13",
+      "file": "mctarot-0.1.13.jar",
+      "sha256": "a4e0b24c05cedd1f4e9847ce745aedf45bcec5bc9309ec02155543a8de3e9834",
+      "size": 1025307,
+      "url": "staging/mctarot-0.1.13.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-02 15:23"
+    },
+    {
       "id": "rpgclasses",
       "name": "Legendary Weapons",
       "version": "1.1.0",
