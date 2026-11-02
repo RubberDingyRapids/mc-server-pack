@@ -39,5 +39,20 @@
     }
   ],
   "server": [],
-  "ops": []
+  "ops": [
+    {
+      "id": "skinwalker",
+      "name": "Skinwalker",
+      "version": "1.0.0",
+      "file": "skinwalker-1.0.0.jar",
+      "sha256": "6d9ee88b79e43daba937f59fdda3e50731420c6a13d7cea9a4a41fc8f207ed0b",
+      "size": 48122,
+      "url": "mods/skinwalker-1.0.0.jar",
+      "env": "*",
+      "op": "disable",
+      "list": "pack",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-02 15:31"
+    }
+  ]
 }
