@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-11-01",
+  "version": "2026-11-02",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -36,11 +36,11 @@
     {
       "id": "mctarot",
       "name": "Arcana of Fate",
-      "version": "0.1.10",
-      "file": "mctarot-0.1.10.jar",
-      "sha256": "d6bb1e4a5d84636a5bbe4e0d1a9e48542081a046faa6403d88eb9d939acd800a",
-      "size": 1014084,
-      "url": "mods/mctarot-0.1.10.jar",
+      "version": "0.1.13",
+      "file": "mctarot-0.1.13.jar",
+      "sha256": "a4e0b24c05cedd1f4e9847ce745aedf45bcec5bc9309ec02155543a8de3e9834",
+      "size": 1025307,
+      "url": "mods/mctarot-0.1.13.jar",
       "env": "*"
     },
     {
@@ -406,11 +406,11 @@
     {
       "id": "rpgclasses",
       "name": "Legendary Weapons",
-      "version": "1.0.0",
-      "file": "rpgclasses-1.0.0.jar",
-      "sha256": "47b7bbee9e6609ebea71b8c3e6b60b0aad1d2efb6238b090454a7a073fcf6e83",
-      "size": 6351008,
-      "url": "mods/rpgclasses-1.0.0.jar",
+      "version": "1.1.0",
+      "file": "rpgclasses-1.1.0.jar",
+      "sha256": "8580a97b8e43b05fa5d11cbcec3b0e952c96d7867bae25e916110594bb29162c",
+      "size": 10309593,
+      "url": "mods/rpgclasses-1.1.0.jar",
       "env": "*"
     },
     {
@@ -764,16 +764,6 @@
       "env": "*"
     },
     {
-      "id": "skinwalker",
-      "name": "Skinwalker",
-      "version": "1.0.0",
-      "file": "skinwalker-1.0.0.jar",
-      "sha256": "6d9ee88b79e43daba937f59fdda3e50731420c6a13d7cea9a4a41fc8f207ed0b",
-      "size": 48122,
-      "url": "mods/skinwalker-1.0.0.jar",
-      "env": "*"
-    },
-    {
       "id": "sodium",
       "name": "Sodium",
       "version": "0.6.0+mc1.21.1",
@@ -866,11 +856,11 @@
     {
       "id": "voodoo",
       "name": "Voodoo's Compendium of Shite",
-      "version": "1.0.0",
-      "file": "VoodoosCompendium-1.0.0.jar",
-      "sha256": "ee3ac85ebfc85eb5c3f1f57e86e269f1e458528a06dd0562cb9133cc536517a4",
-      "size": 3232349,
-      "url": "mods/VoodoosCompendium-1.0.0.jar",
+      "version": "1.1.0",
+      "file": "VoodoosCompendium-1.1.0.jar",
+      "sha256": "d8d48190f210d1f44e635b9a7ecb1342472a7e4ffcb20d2b3d438f99c7f2501b",
+      "size": 4314821,
+      "url": "mods/VoodoosCompendium-1.1.0.jar",
       "env": "*"
     },
     {
@@ -914,7 +904,9 @@
       "env": "*"
     }
   ],
-  "remove": [],
+  "remove": [
+    "skinwalker"
+  ],
   "files": [
     {
       "path": "config/punchy/punchy_config.json",
@@ -922,6 +914,18 @@
       "sha256": "5980269eb83c7c3426db4cc29331ccadd3990ea0e79fc3acc6eebe307d0998f2",
       "size": 1411,
       "overwrite": false
+    }
+  ],
+  "disabled": [
+    {
+      "id": "skinwalker",
+      "name": "Skinwalker",
+      "version": "1.0.0",
+      "file": "skinwalker-1.0.0.jar",
+      "sha256": "6d9ee88b79e43daba937f59fdda3e50731420c6a13d7cea9a4a41fc8f207ed0b",
+      "size": 48122,
+      "url": "mods/skinwalker-1.0.0.jar",
+      "env": "*"
     }
   ]
 }

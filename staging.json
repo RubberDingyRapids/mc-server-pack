@@ -1,58 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "mctarot",
-      "name": "Arcana of Fate",
-      "version": "0.1.13",
-      "file": "mctarot-0.1.13.jar",
-      "sha256": "a4e0b24c05cedd1f4e9847ce745aedf45bcec5bc9309ec02155543a8de3e9834",
-      "size": 1025307,
-      "url": "staging/mctarot-0.1.13.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-02 15:23"
-    },
-    {
-      "id": "rpgclasses",
-      "name": "Legendary Weapons",
-      "version": "1.1.0",
-      "file": "rpgclasses-1.1.0.jar",
-      "sha256": "8580a97b8e43b05fa5d11cbcec3b0e952c96d7867bae25e916110594bb29162c",
-      "size": 10309593,
-      "url": "staging/rpgclasses-1.1.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-02 15:22"
-    },
-    {
-      "id": "voodoo",
-      "name": "Voodoo's Compendium of Shite",
-      "version": "1.1.0",
-      "file": "VoodoosCompendium-1.1.0.jar",
-      "sha256": "d8d48190f210d1f44e635b9a7ecb1342472a7e4ffcb20d2b3d438f99c7f2501b",
-      "size": 4314821,
-      "url": "staging/VoodoosCompendium-1.1.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-02 15:24"
-    }
-  ],
+  "pack": [],
   "server": [],
-  "ops": [
-    {
-      "id": "skinwalker",
-      "name": "Skinwalker",
-      "version": "1.0.0",
-      "file": "skinwalker-1.0.0.jar",
-      "sha256": "6d9ee88b79e43daba937f59fdda3e50731420c6a13d7cea9a4a41fc8f207ed0b",
-      "size": 48122,
-      "url": "mods/skinwalker-1.0.0.jar",
-      "env": "*",
-      "op": "disable",
-      "list": "pack",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-02 15:31"
-    }
-  ]
+  "ops": []
 }
