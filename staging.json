@@ -1,31 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "rpgclasses",
-      "name": "Legendary Weapons",
-      "version": "1.1.0",
-      "file": "rpgclasses-1.1.0.jar",
-      "sha256": "8580a97b8e43b05fa5d11cbcec3b0e952c96d7867bae25e916110594bb29162c",
-      "size": 10309593,
-      "url": "staging/rpgclasses-1.1.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-02 15:18"
-    },
-    {
-      "id": "voodoo",
-      "name": "Voodoo's Compendium of Shite",
-      "version": "1.1.0",
-      "file": "VoodoosCompendium-1.1.0.jar",
-      "sha256": "d8d48190f210d1f44e635b9a7ecb1342472a7e4ffcb20d2b3d438f99c7f2501b",
-      "size": 4314821,
-      "url": "staging/VoodoosCompendium-1.1.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-02 15:18"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
