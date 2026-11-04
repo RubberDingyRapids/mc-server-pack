@@ -1,19 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "evangelion",
-      "name": "Neon Genesis Evangelion",
-      "version": "1.4.0",
-      "file": "evangelion-1.4.0.jar",
-      "sha256": "d6f26cb944ff57d97a30cb0c63c1c26b974f0ec5f6c327e99120fa0153c726f2",
-      "size": 1863654,
-      "url": "staging/evangelion-1.4.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-04 23:52"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
