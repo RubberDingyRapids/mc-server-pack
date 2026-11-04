@@ -1,6 +1,43 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "mctarot",
+      "name": "Arcana of Fate",
+      "version": "0.1.15",
+      "file": "mctarot-0.1.15.jar",
+      "sha256": "3eeb451e1715a4376b2202361ba8f656043031e859813e943b8369c5d36cee84",
+      "size": 1026318,
+      "url": "staging/mctarot-0.1.15.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-11-04 21:36"
+    },
+    {
+      "id": "awoogacasino",
+      "name": "Lucky",
+      "version": "1.1",
+      "file": "lucky-1.1.jar",
+      "sha256": "a86bbda92a8b5a69eab47b4507babc1c5d14183a64c639ff5f477423bc212fa6",
+      "size": 422419,
+      "url": "staging/lucky-1.1.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-11-04 21:36"
+    },
+    {
+      "id": "butcher",
+      "name": "The Butcher",
+      "version": "1.0.4",
+      "file": "the-butcher-1.0.4.jar",
+      "sha256": "027ff84623de4ac6bb934fbdb6501d59a35f0c4f13cde6607d8f2086f385cc42",
+      "size": 4168096,
+      "url": "staging/the-butcher-1.0.4.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-11-04 21:36"
+    }
+  ],
   "server": [],
   "ops": []
 }
