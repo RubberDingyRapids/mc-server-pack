@@ -1,6 +1,19 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "modupdater",
+      "name": "Mod Updater",
+      "version": "1.0.2",
+      "file": "modupdater-1.0.2.jar",
+      "sha256": "0439f281bed4a92494a215a9e85b15ebce0d27bd839120f0da4934e5911e171f",
+      "size": 70408,
+      "url": "staging/modupdater-1.0.2.jar",
+      "env": "client",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-05 00:35"
+    }
+  ],
   "server": [],
   "ops": []
 }
