@@ -915,6 +915,7 @@
     }
   ],
   "remove": [
+    "immersive_portals",
     "skinwalker"
   ],
   "files": [
