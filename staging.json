@@ -12,18 +12,6 @@
       "env": "*",
       "by": "RubberDingyRapids",
       "at": "2026-11-04 23:12"
-    },
-    {
-      "id": "gbe",
-      "name": "Gravitational Beam Emitter",
-      "version": "1.6.0",
-      "file": "gbe-1.6.0.jar",
-      "sha256": "7a989514a4576830e4cfd5e0b80f4792f951f8c9a1020382b464c14e9086a7dd",
-      "size": 560930,
-      "url": "staging/gbe-1.6.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-04 23:55"
     }
   ],
   "server": [],
