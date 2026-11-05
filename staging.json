@@ -1,32 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "gbe",
-      "name": "Gravitational Beam Emitter",
-      "version": "1.7.1",
-      "file": "gbe-1.7.1.jar",
-      "sha256": "a9688f9e4e20158782c22fc90054ddb7e845fa74197fcd26893e3ece9d3de61d",
-      "size": 561683,
-      "url": "staging/gbe-1.7.1.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-05 21:46"
-    }
-  ],
-  "server": [
-    {
-      "id": "ghostlist",
-      "name": "Ghost List",
-      "version": "1.3.0",
-      "file": "ghostlist-1.3.0.jar",
-      "sha256": "02e05aea9aa7fe15395b2bda24d16e06897d919d35f43725d93e3797722d4bf9",
-      "size": 24598,
-      "url": "staging/ghostlist-1.3.0.jar",
-      "env": "server",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-05 21:46"
-    }
-  ],
+  "pack": [],
+  "server": [],
   "ops": []
 }
