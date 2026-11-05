@@ -1,6 +1,19 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "gbe",
+      "name": "Gravitational Beam Emitter",
+      "version": "1.7.0",
+      "file": "gbe-1.7.0.jar",
+      "sha256": "b1569a2a9f1de0e6fadb4627f375b05ee87293569a70daf9e76dccfe21b55c20",
+      "size": 561488,
+      "url": "staging/gbe-1.7.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-05 00:31"
+    }
+  ],
   "server": [],
   "ops": []
 }
