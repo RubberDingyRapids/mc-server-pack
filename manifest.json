@@ -306,11 +306,11 @@
     {
       "id": "gbe",
       "name": "Gravitational Beam Emitter",
-      "version": "1.6.0",
-      "file": "gbe-1.6.0.jar",
-      "sha256": "46536dd197cf7b1fb936729446fc88d67ee648b5b7768f7b9556d2f7cce869eb",
-      "size": 544329,
-      "url": "mods/gbe-1.6.0.jar",
+      "version": "1.7.0",
+      "file": "gbe-1.7.0.jar",
+      "sha256": "b1569a2a9f1de0e6fadb4627f375b05ee87293569a70daf9e76dccfe21b55c20",
+      "size": 561488,
+      "url": "mods/gbe-1.7.0.jar",
       "env": "*"
     },
     {
