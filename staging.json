@@ -1,19 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "dragonrider",
-      "name": "Dragon Rider",
-      "version": "1.6.2",
-      "file": "dragonrider-1.6.2.jar",
-      "sha256": "0b98739d2d9cc7b7618dce78c9fe3f0ab25c51c2b56a140c0581025b0862d9dc",
-      "size": 2426430,
-      "url": "staging/dragonrider-1.6.2.jar",
-      "env": "*",
-      "by": "RemiVT",
-      "at": "2026-11-05 11:37"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
