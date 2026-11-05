@@ -606,11 +606,11 @@
     {
       "id": "modupdater",
       "name": "Mod Updater",
-      "version": "1.0.1",
-      "file": "modupdater-1.0.1.jar",
-      "sha256": "23c5b08d76c085b62322d63ab785f3f10e7268e65cf5e5b528eaf8009fb2356e",
-      "size": 70117,
-      "url": "mods/modupdater-1.0.1.jar",
+      "version": "1.0.2",
+      "file": "modupdater-1.0.2.jar",
+      "sha256": "0439f281bed4a92494a215a9e85b15ebce0d27bd839120f0da4934e5911e171f",
+      "size": 70408,
+      "url": "mods/modupdater-1.0.2.jar",
       "env": "client"
     },
     {
