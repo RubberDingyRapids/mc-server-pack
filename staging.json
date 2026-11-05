@@ -12,6 +12,18 @@
       "env": "*",
       "by": "RubberDingyRapids",
       "at": "2026-11-04 23:12"
+    },
+    {
+      "id": "dragonrider",
+      "name": "Dragon Rider",
+      "version": "1.6.0",
+      "file": "dragonrider-1.6.0.jar",
+      "sha256": "03fc02d094ca0ac428eb46dd943d9703c1779a5ddfe7d0c8658cb6ef48baa9b2",
+      "size": 2399013,
+      "url": "staging/dragonrider-1.6.0.jar",
+      "env": "*",
+      "by": "RemiVT",
+      "at": "2026-11-05 00:07"
     }
   ],
   "server": [],
