@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-11-04",
+  "version": "2026-11-05",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -36,11 +36,11 @@
     {
       "id": "mctarot",
       "name": "Arcana of Fate",
-      "version": "0.1.15",
-      "file": "mctarot-0.1.15.jar",
-      "sha256": "3eeb451e1715a4376b2202361ba8f656043031e859813e943b8369c5d36cee84",
-      "size": 1026318,
-      "url": "mods/mctarot-0.1.15.jar",
+      "version": "0.1.16",
+      "file": "mctarot-0.1.16.jar",
+      "sha256": "38838568a8bdfc1e8746eb63bed3bce156e873d17f88ae2e59022ba7c5ef7e7c",
+      "size": 1075267,
+      "url": "mods/mctarot-0.1.16.jar",
       "env": "*"
     },
     {
@@ -146,11 +146,11 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "1.5.6",
-      "file": "dragonrider-1.5.6.jar",
-      "sha256": "01ad5399860c7b4040db251a79588c13769a3768d8f7d70b90ababf2d851d8a4",
-      "size": 2259850,
-      "url": "mods/dragonrider-1.5.6.jar",
+      "version": "1.6.0",
+      "file": "dragonrider-1.6.0.jar",
+      "sha256": "03fc02d094ca0ac428eb46dd943d9703c1779a5ddfe7d0c8658cb6ef48baa9b2",
+      "size": 2399013,
+      "url": "mods/dragonrider-1.6.0.jar",
       "env": "*"
     },
     {

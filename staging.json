@@ -1,31 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "mctarot",
-      "name": "Arcana of Fate",
-      "version": "0.1.16",
-      "file": "mctarot-0.1.16.jar",
-      "sha256": "38838568a8bdfc1e8746eb63bed3bce156e873d17f88ae2e59022ba7c5ef7e7c",
-      "size": 1075267,
-      "url": "staging/mctarot-0.1.16.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-04 23:12"
-    },
-    {
-      "id": "dragonrider",
-      "name": "Dragon Rider",
-      "version": "1.6.0",
-      "file": "dragonrider-1.6.0.jar",
-      "sha256": "03fc02d094ca0ac428eb46dd943d9703c1779a5ddfe7d0c8658cb6ef48baa9b2",
-      "size": 2399013,
-      "url": "staging/dragonrider-1.6.0.jar",
-      "env": "*",
-      "by": "RemiVT",
-      "at": "2026-11-05 00:07"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
