@@ -1,6 +1,31 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "gbe",
+      "name": "Gravitational Beam Emitter",
+      "version": "1.7.1",
+      "file": "gbe-1.8.0.jar",
+      "sha256": "974c3d8292d8730200661e18eafeac655978a35e3fcd83f95fb8f58a9304e4d7",
+      "size": 566816,
+      "url": "staging/gbe-1.8.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-06 00:14"
+    },
+    {
+      "id": "voodoosauctionhouse",
+      "name": "Voodoo's Auction House",
+      "version": "1.0.1",
+      "file": "Voodoo's Auction House 1.0.1.jar",
+      "sha256": "3a4bf3a940ba3a9cd7a37b5ca9e3951c634bcf4d93903b7afcad31e41b3ce17f",
+      "size": 818771,
+      "url": "staging/Voodoo%27s%20Auction%20House%201.0.1.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-06 00:14"
+    }
+  ],
   "server": [],
   "ops": []
 }
