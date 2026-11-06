@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-11-05",
+  "version": "2026-11-06",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -307,10 +307,10 @@
       "id": "gbe",
       "name": "Gravitational Beam Emitter",
       "version": "1.7.1",
-      "file": "gbe-1.7.1.jar",
-      "sha256": "a9688f9e4e20158782c22fc90054ddb7e845fa74197fcd26893e3ece9d3de61d",
-      "size": 561683,
-      "url": "mods/gbe-1.7.1.jar",
+      "file": "gbe-1.8.0.jar",
+      "sha256": "974c3d8292d8730200661e18eafeac655978a35e3fcd83f95fb8f58a9304e4d7",
+      "size": 566816,
+      "url": "mods/gbe-1.8.0.jar",
       "env": "*"
     },
     {
@@ -856,11 +856,11 @@
     {
       "id": "voodoosauctionhouse",
       "name": "Voodoo's Auction House",
-      "version": "1.0",
-      "file": "Voodoo's Auction House 1.0.jar",
-      "sha256": "29496a4ab1ed9ad58d13f9b3ac62d87aa474fed3e2365c7f05d02ea69430a6bf",
-      "size": 796470,
-      "url": "mods/Voodoo%27s%20Auction%20House%201.0.jar",
+      "version": "1.0.1",
+      "file": "Voodoo's Auction House 1.0.1.jar",
+      "sha256": "3a4bf3a940ba3a9cd7a37b5ca9e3951c634bcf4d93903b7afcad31e41b3ce17f",
+      "size": 818771,
+      "url": "mods/Voodoo%27s%20Auction%20House%201.0.1.jar",
       "env": "*"
     },
     {
