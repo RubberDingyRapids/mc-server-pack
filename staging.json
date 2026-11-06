@@ -1,19 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "voodoomenagerie",
-      "name": "Voodoo's Mob Trading Cards",
-      "version": "1.0",
-      "file": "Voodoo's Mob Trading Cards 1.0.jar",
-      "sha256": "8afe176b0e742e9038e43d43e90dd6435e41476245dd0afa695bfeb2e5e40aef",
-      "size": 984071,
-      "url": "staging/Voodoo%27s%20Mob%20Trading%20Cards%201.0.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-06 22:42"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
