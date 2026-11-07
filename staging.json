@@ -1,6 +1,19 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "jurassicrevived_bundle",
+      "name": "Jurassic Revived Bundle",
+      "version": "0.215.0+mc1.21.1",
+      "file": "JurassicRevived-Bundle-0.215.0+mc1.21.1.jar",
+      "sha256": "c30f12fd0ab85c6c7280fde83457d79e8554e43ce1e4a29ee4799a7ab34834ad",
+      "size": 23318206,
+      "url": "staging/JurassicRevived-Bundle-0.215.0%2Bmc1.21.1.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-07 14:24"
+    }
+  ],
   "server": [],
   "ops": []
 }
