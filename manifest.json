@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-11-06",
+  "version": "2026-11-07",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -381,6 +381,16 @@
       "sha256": "84c3a6813d6fdb0446092a477a0bfde0238ab9a49efc1ab110ae4871cc3e20da",
       "size": 187766,
       "url": "https://edge.forgecdn.net/files/7766/751/jamlib-fabric-1.3.6%2b1.21.1.jar",
+      "env": "*"
+    },
+    {
+      "id": "jurassicrevived",
+      "name": "Jurassic Revived",
+      "version": "0.215.0",
+      "file": "jurassicrevived-fabricmc-0.215.0+mc1.21.1.jar",
+      "sha256": "5000696d9b776777beaabf29389d224a5a948f5a1a9a625956ff66d2fe0d45a0",
+      "size": 19111777,
+      "url": "https://cdn.modrinth.com/data/o8XByMF0/versions/qirYV7ps/jurassicrevived-fabricmc-0.215.0%2Bmc1.21.1.jar",
       "env": "*"
     },
     {

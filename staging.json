@@ -1,19 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "jurassicrevived",
-      "name": "Jurassic Revived",
-      "version": "0.215.0",
-      "file": "jurassicrevived-fabricmc-0.215.0+mc1.21.1.jar",
-      "sha256": "5000696d9b776777beaabf29389d224a5a948f5a1a9a625956ff66d2fe0d45a0",
-      "size": 19111777,
-      "url": "https://cdn.modrinth.com/data/o8XByMF0/versions/qirYV7ps/jurassicrevived-fabricmc-0.215.0%2Bmc1.21.1.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-07 14:17"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
