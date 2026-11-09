@@ -776,11 +776,11 @@
     {
       "id": "stutternuller",
       "name": "Server Stutter Nuller",
-      "version": "1.0.0",
-      "file": "server-stutter-nuller-1.0.0.jar",
-      "sha256": "de700abccf32d7bed0905ec842fb07caf7206a6a6234e5257637241a720d2564",
-      "size": 1067780,
-      "url": "mods/server-stutter-nuller-1.0.0.jar",
+      "version": "1.0.1",
+      "file": "server-stutter-nuller-1.0.1.jar",
+      "sha256": "efcbf2daad77f0020844a218d8d41f89511385668608c27611571c0cc51a4d0f",
+      "size": 1069849,
+      "url": "mods/server-stutter-nuller-1.0.1.jar",
       "env": "*"
     },
     {

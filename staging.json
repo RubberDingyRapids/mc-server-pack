@@ -1,19 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "stutternuller",
-      "name": "Server Stutter Nuller",
-      "version": "1.0.1",
-      "file": "server-stutter-nuller-1.0.1.jar",
-      "sha256": "efcbf2daad77f0020844a218d8d41f89511385668608c27611571c0cc51a4d0f",
-      "size": 1069849,
-      "url": "staging/server-stutter-nuller-1.0.1.jar",
-      "env": "*",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-09 22:03"
-    }
-  ],
+  "pack": [],
   "server": [],
   "ops": []
 }
