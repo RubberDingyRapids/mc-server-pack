@@ -1,6 +1,43 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [],
+  "pack": [
+    {
+      "id": "stutternuller",
+      "name": "Server Stutter Nuller",
+      "version": "1.0.0",
+      "file": "server-stutter-nuller-1.0.0.jar",
+      "sha256": "de700abccf32d7bed0905ec842fb07caf7206a6a6234e5257637241a720d2564",
+      "size": 1067780,
+      "url": "staging/server-stutter-nuller-1.0.0.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-09 21:47"
+    },
+    {
+      "id": "cosmeticarmour",
+      "name": "Voodoo's Cosmetic Armour and Tools",
+      "version": "1.0.5",
+      "file": "cosmeticarmour-1.0.5.jar",
+      "sha256": "8942a3703500e12295227d7b37f4adf14f8e157b176c4e62fb56552c3895ed7a",
+      "size": 11431868,
+      "url": "staging/cosmeticarmour-1.0.5.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-09 21:47"
+    },
+    {
+      "id": "voodoomenagerie",
+      "name": "Voodoo's Mob Trading Cards",
+      "version": "1.0.1",
+      "file": "Voodoo's Mob Trading Cards 1.0.1.jar",
+      "sha256": "d3c87d004ee75103cbb96b91c6046bd8431d00fad1507bb6da44c61533b41811",
+      "size": 998790,
+      "url": "staging/Voodoo%27s%20Mob%20Trading%20Cards%201.0.1.jar",
+      "env": "*",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-09 21:47"
+    }
+  ],
   "server": [],
   "ops": []
 }
