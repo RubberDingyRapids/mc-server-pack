@@ -1,6 +1,19 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
   "pack": [],
-  "server": [],
+  "server": [
+    {
+      "id": "ledgerbridge",
+      "name": "Ledger Bridge",
+      "version": "1.0.0",
+      "file": "ledgerbridge-1.0.0.jar",
+      "sha256": "1ab0c788feae620d66e76dad592edb5d2a6234596cadcff7a2d01488737492a5",
+      "size": 39402,
+      "url": "staging/ledgerbridge-1.0.0.jar",
+      "env": "server",
+      "by": "RubberDingyRapids",
+      "at": "2026-11-10 21:01"
+    }
+  ],
   "ops": []
 }
