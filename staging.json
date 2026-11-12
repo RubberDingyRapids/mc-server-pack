@@ -1,44 +1,6 @@
 {
   "_comment": "mods uploaded with the server updater but not published yet. clients and the server only read manifest.json / server-manifest.json, so nothing here is live.",
-  "pack": [
-    {
-      "id": "arcanewand",
-      "name": "Arcane Wand: Cataclysm",
-      "version": "1.0.0",
-      "file": "arcanewand-1.0.0.jar",
-      "sha256": "d675e5b09ab2f637126fab504f2c44d450ea9b0e83878e326fde1e54fd397183",
-      "size": 1424422,
-      "url": "staging/arcanewand-1.0.0.jar",
-      "env": "*",
-      "by": "RemiVT",
-      "at": "2026-11-12 20:16"
-    },
-    {
-      "id": "dragonrider",
-      "name": "Dragon Rider",
-      "version": "2.1.0",
-      "file": "dragonrider-2.1.0.jar",
-      "sha256": "0aec2867051e229ced9f7258c2a974ede9cdaa5bfda9f85e835fbc34ff55a9ae",
-      "size": 4721659,
-      "url": "staging/dragonrider-2.1.0.jar",
-      "env": "*",
-      "by": "RemiVT",
-      "at": "2026-11-12 19:58"
-    }
-  ],
-  "server": [
-    {
-      "id": "ledgerbridge",
-      "name": "Ledger Bridge",
-      "version": "1.0.0",
-      "file": "ledgerbridge-1.0.0.jar",
-      "sha256": "1ab0c788feae620d66e76dad592edb5d2a6234596cadcff7a2d01488737492a5",
-      "size": 39402,
-      "url": "staging/ledgerbridge-1.0.0.jar",
-      "env": "server",
-      "by": "RubberDingyRapids",
-      "at": "2026-11-10 21:01"
-    }
-  ],
+  "pack": [],
+  "server": [],
   "ops": []
 }

@@ -1,6 +1,6 @@
 {
   "pack": "derpys server pack",
-  "version": "2026-11-09",
+  "version": "2026-11-12",
   "minecraft": "1.21.1",
   "mods": [
     {
@@ -48,8 +48,8 @@
       "name": "Arcane Wand: Cataclysm",
       "version": "1.0.0",
       "file": "arcanewand-1.0.0.jar",
-      "sha256": "235ed67eb2750ff43f40c54305bc70f6da7a36d97dd052dc45a1ce463047c70a",
-      "size": 1415421,
+      "sha256": "d675e5b09ab2f637126fab504f2c44d450ea9b0e83878e326fde1e54fd397183",
+      "size": 1424422,
       "url": "mods/arcanewand-1.0.0.jar",
       "env": "*"
     },
@@ -146,11 +146,11 @@
     {
       "id": "dragonrider",
       "name": "Dragon Rider",
-      "version": "2.0.0",
-      "file": "dragonrider-2.0.0.jar",
-      "sha256": "b2e2fd2f2d8f3c7bc450abdb7ba1bd0cd3d2946e6acf7615d70b6e73bb673642",
-      "size": 4656573,
-      "url": "mods/dragonrider-2.0.0.jar",
+      "version": "2.1.0",
+      "file": "dragonrider-2.1.0.jar",
+      "sha256": "0aec2867051e229ced9f7258c2a974ede9cdaa5bfda9f85e835fbc34ff55a9ae",
+      "size": 4721659,
+      "url": "mods/dragonrider-2.1.0.jar",
       "env": "*"
     },
     {
